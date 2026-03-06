@@ -1,6 +1,46 @@
 {
-  "last_updated": "2026-03-06T23:00:56.622934",
+  "last_updated": "2026-03-06T23:54:58.392406",
   "trades": [
+    {
+      "date": "2026-03-06",
+      "team1": "MIN",
+      "team2": "CHI",
+      "player_team1_received": "Nick Foligno",
+      "player_team2_received": "",
+      "description_sk": "Wild vymenili za kapitána Blackhawks, Nicka Foligna."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "DET",
+      "team2": "STL",
+      "player_team1_received": "Justin Faulk",
+      "player_team2_received": "",
+      "description_sk": "Red Wings získali 15-ročného obrancu Justina Faulka výmenou od Blues."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "TBL",
+      "team2": "LAK",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "",
+      "description_sk": "Corey Perry sa vracia do Lightning po výmene od Kings."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "",
+      "description_sk": "Avalanche opäť získali útočníka Nazema Kadriho výmenou od Flames."
+    },
+    {
+      "date": "2026-02-04",
+      "team1": "LAK",
+      "team2": "NYR",
+      "player_team1_received": "Artemi Panarin",
+      "player_team2_received": "",
+      "description_sk": "Kings získali elitného útočníka Artemiho Panarina od Rangers výmenou za bližšie nešpecifikovanú protihodnotu."
+    },
     {
       "date": "2026-03-06",
       "team1": "MIN",
@@ -627,6 +667,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie po nešťastnom údere na ZOH 2026, vynechá minimálne štyri týždne. Umiestnený na listinu zranených."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
