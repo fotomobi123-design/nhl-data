@@ -1,0 +1,43 @@
+name: NHL Trade Scraper
+
+# Kedy sa ma skript spustit (Dynamicke casovanie)
+on:
+  schedule:
+    # 1. Bežná sezóna a mŕtve mesiace (August, September, Október, November, December, Január, Apríl, Máj, Jún) -> Každých 30 minút
+    - cron: '*/30 * * 1,4,5,6,8,9,10,11,12 *'
+    
+    # 2. Pred a po Trade Deadline (Február, Marec) -> Každých 5 minút
+    - cron: '*/5 * * 2,3 *'
+    
+    # 3. Otvorenie trhu s voľnými hráčmi (Júl) -> Každých 5 minút
+    - cron: '*/5 * * 7 *'
+    
+  workflow_dispatch: # Umozni nam to spustit aj manualne cez tlacidlo
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Stiahnutie kodu
+        uses: actions/checkout@v3
+
+      - name: Priprava Pythonu
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Instalacia kniznic
+        run: pip install google-generativeai
+
+      - name: Spustenie analyzy (Mozgu)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scraper.py
+
+      - name: Ulozenie vysledku do repozitara
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add data.json
+          git commit -m "Automaticka aktualizacia trejdov" || exit 0
+          git push
