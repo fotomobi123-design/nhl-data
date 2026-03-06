@@ -1,6 +1,46 @@
 {
-  "last_updated": "2026-03-06T07:51:18.314650",
+  "last_updated": "2026-03-06T08:04:06.687239",
   "trades": [
+    {
+      "date": "2026-03-06",
+      "team1": "DET",
+      "team2": "OTT",
+      "player_team1_received": "David Perron",
+      "player_team2_received": "",
+      "description_sk": "Detroit získal Davida Perrona v obchode so Senators za podmienečný výber vo štvrtom kole draftu 2026."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "CBJ",
+      "team2": "VAN",
+      "player_team1_received": "Conor Garland",
+      "player_team2_received": "",
+      "description_sk": "Blue Jackets získali útočníka Conora Garlanda z tímu Canucks, pričom si vyžiadali aj dva draftové výbery."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "BUF",
+      "team2": "WPG",
+      "player_team1_received": "Logan Stanley a Luke Schenn",
+      "player_team2_received": "",
+      "description_sk": "Sabres získali obrancov Logana Stanleyho a Luka Schenna od Jets."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "ANA",
+      "team2": "WSH",
+      "player_team1_received": "John Carlson",
+      "player_team2_received": "",
+      "description_sk": "Capitals vymenili veteránskeho obrancu Johna Carlsona do tímu Ducks."
+    },
+    {
+      "date": "2026-02-04",
+      "team1": "LAK",
+      "team2": "NYR",
+      "player_team1_received": "Artemi Panarin",
+      "player_team2_received": "",
+      "description_sk": "Kings získali elitného tvorcu hry Artemiho Panarina pre svoj boj o Stanley Cup, Rangers dostali nedostatočnú protihodnotu."
+    },
     {
       "date": "2026-03-06",
       "team1": "DET",
@@ -115,6 +155,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Hviezda Penguins Sidney Crosby vynechá minimálne štyri týždne po nešťastnom náraze na Zimných olympijských hrách 2026. Penguins ho umiestnili na listinu zranených."
+    },
+    {
+      "date": "2026-02-26",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Vynechá minimálne štyri týždne po zranení na Olympijských hrách."
+    },
     {
       "date": "2026-03-06",
       "player": "Evgeni Malkin",
