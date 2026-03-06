@@ -22,8 +22,6 @@ DATA_FILE = "data.json"
 
 def fetch_all_rss_data():
     combined_data = ""
-    # Silnejšie maskovanie za reálny prehliadač Google Chrome na Windowse,
-    # aby nás športové weby nezablokovali
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
@@ -34,19 +32,21 @@ def fetch_all_rss_data():
             req = urllib.request.Request(url, headers=headers)
             with urllib.request.urlopen(req, timeout=10) as response:
                 combined_data += response.read().decode('utf-8') + "\n\n"
-                print(f" -> Uspesne stiahnute!")
         except Exception as e:
             print(f" -> Chyba pri stahovani z {url}: {e}")
             continue
     return combined_data
 
 def process_with_gemini(raw_xml):
+    # UPRAVENÝ PROMPT: Žiadame už aj zranenia!
     prompt = (
-        "Si expert na NHL. Analyzuj text a najdi VSETKY hokejove vymeny (trejdy). "
-        "Ignoruj duplikaty. Spoj kluby do dvojiciek. Preloz do slovenciny. "
-        "Vrat STRIKTNE cisty JSON v tomto formate: "
-        '[{"date": "YYYY-MM-DD", "team1": "Skratka1", "team2": "Skratka2", '
-        '"player_team1_received": "Meno", "player_team2_received": "Meno", "description_sk": "Preklad"}]'
+        "Si expert na NHL. Analyzuj text a najdi VSETKY hokejove vymeny (trejdy) A ZAROVEN VSETKY zranenia hracov. "
+        "Ignoruj bezne spravy, hladaj len fakty o zraneniach a prestupoch. "
+        "Preloz vsetko do slovenciny. "
+        "Vrat STRIKTNE cisty JSON s dvoma hlavnymi klucmi 'trades' a 'injuries' v tomto formate: "
+        '{"trades": [{"date": "YYYY-MM-DD", "team1": "Skratka1", "team2": "Skratka2", '
+        '"player_team1_received": "Meno", "player_team2_received": "Meno", "description_sk": "Preklad"}], '
+        '"injuries": [{"date": "YYYY-MM-DD", "player": "Meno Hraca", "team": "Skratka Timu", "injury_type_sk": "Typ zranenia a predpokladany navrat"}]}'
     )
     try:
         response = model.generate_content([prompt, raw_xml])
@@ -61,22 +61,22 @@ def process_with_gemini(raw_xml):
         return json.loads(clean_text)
     except Exception as e:
         print(f"Chyba umelej inteligencie: {e}")
-        return []
+        return {"trades": [], "injuries": []}
 
 def load_existing_data():
     if os.path.exists(DATA_FILE):
         try:
             with open(DATA_FILE, "r", encoding="utf-8") as f:
                 data = json.load(f)
-                return data.get("trades", [])
+                # Teraz vraciam celý slovník s oboma kľúčmi
+                return data
         except json.JSONDecodeError:
-            return []
-    return []
+            return {"trades": [], "injuries": []}
+    return {"trades": [], "injuries": []}
 
 def is_new_season(existing_trades):
     today = datetime.now()
     if not existing_trades: return False
-    # Mazanie dat 1. jula o polnoci
     if today.month == 7 and today.day == 1 and today.hour == 0:
         last_trade_date_str = existing_trades[0].get("date", "2000-01-01")
         try:
@@ -89,36 +89,49 @@ def is_new_season(existing_trades):
 
 def main():
     print("Startujem NHL Scraper...")
-    existing_trades = load_existing_data()
+    existing_data = load_existing_data()
+   
+    # Preistotu ak subor existuje, ale ma stary format bez injuries kluca
+    existing_trades = existing_data.get("trades", [])
+    existing_injuries = existing_data.get("injuries", [])
    
     if is_new_season(existing_trades):
-        print("Nova sezona (1. jul)! Mazem staru historiu trejdov.")
+        print("Nova sezona! Mazem staru historiu.")
         existing_trades = []
+        existing_injuries = []
 
     raw_data = fetch_all_rss_data()
    
-    # OPRAVA: Ak sa aj stiahnutie nepodari, proces pokracuje a vytvori subor!
     if raw_data.strip():
-        print("Data stiahnute, analyzujem cez AI...")
-        new_trades = process_with_gemini(raw_data)
+        print("Data stiahnute, analyzujem...")
+        new_data = process_with_gemini(raw_data)
        
+        # Spracovanie novych trejdov
+        new_trades = new_data.get("trades", [])
         existing_descriptions = [t.get("description_sk") for t in existing_trades]
         for trade in new_trades:
             if trade.get("description_sk") not in existing_descriptions:
                 existing_trades.insert(0, trade)
+               
+        # Spracovanie novych zraneni
+        new_injuries = new_data.get("injuries", [])
+        existing_injury_desc = [i.get("injury_type_sk") for i in existing_injuries]
+        for injury in new_injuries:
+            # Nechceme ukladat to iste zranenie toho isteho hraca viackrat
+            if injury.get("injury_type_sk") not in existing_injury_desc:
+                 existing_injuries.insert(0, injury)
     else:
-        print("UPOZORNENIE: Nepodarilo sa stiahnut ziadne spravy. Ukladam len staru historiu.")
+        print("Upozornenie: Nepodarilo sa stiahnut data.")
 
     final_output = {
         "last_updated": datetime.now().isoformat(),
-        "trades": existing_trades
+        "trades": existing_trades,
+        "injuries": existing_injuries
     }
 
-    # Tento zapis sa vykona VZDY, vdaka comu nam to uz nikdy nespadne
-    print("Vytvaram/Aktualizujem subor data.json ...")
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(final_output, f, ensure_ascii=False, indent=2)
-    print("HOTOVO! Subor bol uspesne vytvoreny.")
+    print("HOTOVO! Data so zraneniami uspesne ulozene.")
 
 if __name__ == "__main__":
     main()
