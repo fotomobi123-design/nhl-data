@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-03-06T14:06:57.752223",
+  "last_updated": "2026-03-06T15:57:34.236202",
   "trades": [
+    {
+      "date": "2026-03-06",
+      "team1": "DET",
+      "team2": "OTT",
+      "player_team1_received": "David Perron",
+      "player_team2_received": "",
+      "description_sk": "Red Wings (DET) získali Davida Perrona v dohode so Senators (OTT) za podmienený výber vo štvrtom kole draftu 2026."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "TOR",
+      "team2": "COL",
+      "player_team1_received": "",
+      "player_team2_received": "Nicolas Roy",
+      "description_sk": "Maple Leafs (TOR) vymenili centra Nicolasa Roya do Avalanche (COL) za podmienený výber v prvom kole draftu 2027 a podmienený výber v piatom kole draftu 2026."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "DAL",
+      "team2": "NSH",
+      "player_team1_received": "Michael Bunting",
+      "player_team2_received": "",
+      "description_sk": "Stars (DAL) získali útočníka Michaela Buntinga od Predators (NSH) za výber v treťom kole draftu 2026."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "CBJ",
+      "team2": "VAN",
+      "player_team1_received": "Conor Garland",
+      "player_team2_received": "",
+      "description_sk": "Blue Jackets (CBJ) získali útočníka Conora Garlanda od Canucks (VAN) za dva výbery v drafte."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "BUF",
+      "team2": "WPG",
+      "player_team1_received": "Logan Stanley, Luke Schenn",
+      "player_team2_received": "",
+      "description_sk": "Sabres (BUF) získali obrancov Logana Stanleyho a Luka Schenna od Jets (WPG)."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "WSH",
+      "team2": "ANA",
+      "player_team1_received": "",
+      "player_team2_received": "John Carlson",
+      "description_sk": "Capitals (WSH) vymenili veteránskeho obrancu Johna Carlsona do Ducks (ANA)."
+    },
+    {
+      "date": "2026-02-04",
+      "team1": "LAK",
+      "team2": "NYR",
+      "player_team1_received": "Artemi Panarin",
+      "player_team2_received": "",
+      "description_sk": "Králi (LAK) získali elitného tvorcu hry Artemiho Panarina od Rangers (NYR) za nešpecifikovanú protihodnotu."
+    },
     {
       "date": "2026-03-06",
       "team1": "DET",
@@ -283,6 +339,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Mimo hry minimálne štyri týždne po nešikovnom údere na Zimných olympijských hrách 2026."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
