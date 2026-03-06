@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-03-06T07:45:00.652895",
+  "last_updated": "2026-03-06T07:51:18.314650",
   "trades": [
+    {
+      "date": "2026-03-06",
+      "team1": "DET",
+      "team2": "OTT",
+      "player_team1_received": "David Perron",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Red Wings získali späť Davida Perrona v obchode so Senators výmenou za podmienečný výber v štvrtom kole draftu 2026."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "COL",
+      "team2": "TOR",
+      "player_team1_received": "Nicolas Roy",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Maple Leafs vymenili centra Nicolasa Roya do Avalanche za podmienečný výber v prvom kole draftu 2027 a podmienečný výber v piatom kole draftu 2026."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "DAL",
+      "team2": "NSH",
+      "player_team1_received": "Michael Bunting",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Predators vymenili útočníka Michaela Buntinga do Stars za výber v treťom kole draftu 2026."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "CBJ",
+      "team2": "VAN",
+      "player_team1_received": "Conor Garland",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Blue Jackets získali útočníka Conora Garlanda z Canucks. Canucks údajne získali dva výbery v drafte."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "BUF",
+      "team2": "WPG",
+      "player_team1_received": "Logan Stanley, Luke Schenn",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Sabres získali obrancov Logan Stanley a Luke Schenn z Jets. Protihodnota nebola špecifikovaná."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "ANA",
+      "team2": "WSH",
+      "player_team1_received": "John Carlson",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Capitals vymenili veteránskeho obrancu Johna Carlsona do Ducks. Protihodnota nebola špecifikovaná."
+    },
+    {
+      "date": "2026-02-04",
+      "team1": "LAK",
+      "team2": "NYR",
+      "player_team1_received": "Artemi Panarin",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Kings získali elitného tvorcu hry Artemiho Panarina od Rangers. Rangers získali nešpecifikovanú protihodnotu, ktorá bola označená za neuspokojivú."
+    },
     {
       "date": "2026-03-06",
       "team1": "DET",
@@ -56,6 +112,20 @@
       "player_team1_received": "Artemi Panarin",
       "player_team2_received": "N/A",
       "description_sk": "Kings získali elitného tvorcu hry pre útok na Stanley Cup, Rangers dostali nevýraznú protihodnotu. Jeden z najlepších krídelníkov NHL smeruje do Los Angeles."
+    }
+  ],
+  "injuries": [
+    {
+      "date": "2026-03-06",
+      "player": "Evgeni Malkin",
+      "team": "PIT",
+      "injury_type_sk": "Vylúčený (5-minútový väčší trest a vylúčenie do konca zápasu) za seknutie Rasmus Dahlin do hlavy. Hrozí mu disciplinárny trest/zákaz činnosti."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (neurčený typ, utrpel po nepríjemnom hite vo štvrťfinále ZOH 2026 proti Česku, po ktorom odkrivkal z ľadu). Umiestnený na listinu zranených Penguins, očakáva sa absencia minimálne štyri týždne."
     }
   ]
 }
