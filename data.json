@@ -1,6 +1,38 @@
 {
-  "last_updated": "2026-03-06T10:02:36.484943",
+  "last_updated": "2026-03-06T11:45:10.181090",
   "trades": [
+    {
+      "date": "2026-03-06",
+      "team1": "OTT",
+      "team2": "DET",
+      "player_team1_received": null,
+      "player_team2_received": "David Perron",
+      "description_sk": "Red Wings získali útočníka Davida Perrona od Senators výmenou za podmienečný výber v štvrtom kole draftu 2026."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "VAN",
+      "team2": "CBJ",
+      "player_team1_received": null,
+      "player_team2_received": "Conor Garland",
+      "description_sk": "Blue Jackets získali útočníka Conora Garlanda od Canucks výmenou za 2 draftové výbery."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "WSH",
+      "team2": "ANA",
+      "player_team1_received": null,
+      "player_team2_received": "John Carlson",
+      "description_sk": "Capitals vymenili veteránskeho obrancu Johna Carlsona do Ducks."
+    },
+    {
+      "date": "2026-02-04",
+      "team1": "NYR",
+      "team2": "LAK",
+      "player_team1_received": null,
+      "player_team2_received": "Artemi Panarin",
+      "description_sk": "Kings získali elitného krídelníka Artemiho Panarina od Rangers výmenou za nezverejnenú kompenzáciu, čo im pomôže v boji o Stanley Cup. Rangers získali neuspokojivú protihodnotu."
+    },
     {
       "date": "2026-03-06",
       "team1": "DET",
@@ -211,6 +243,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-20",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie utrpené po nepríjemnom údere vo štvrťfinále proti Česku na Zimných olympijských hrách 2026. Odstúpil z ľadu a bol umiestnený na listinu zranených. Očakáva sa, že vynechá minimálne štyri týždne."
+    },
     {
       "date": "2026-03-06",
       "player": "Evgeni Malkin",
