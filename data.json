@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-03-06T19:50:09.075687",
+  "last_updated": "2026-03-06T20:59:46.296259",
   "trades": [
+    {
+      "date": "2026-03-06",
+      "team1": "MIN",
+      "team2": "CHI",
+      "player_team1_received": "Nick Foligno",
+      "player_team2_received": "",
+      "description_sk": "Minnesota Wild vymenili za kapitána Chicago Blackhawks Nicka Foligna."
+    },
+    {
+      "date": "2026-03-05",
+      "team1": "BUF",
+      "team2": "WPG",
+      "player_team1_received": "Logan Stanley, Luke Schenn",
+      "player_team2_received": "",
+      "description_sk": "Buffalo Sabres získali obrancov Logana Stanleyho a Lukea Schenna z tímu Winnipeg Jets."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "ANA",
+      "team2": "WSH",
+      "player_team1_received": "John Carlson",
+      "player_team2_received": "",
+      "description_sk": "Washington Capitals vymenili veteránskeho obrancu Johna Carlsona do tímu Anaheim Ducks."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "NYI",
+      "team2": "STL",
+      "player_team1_received": "Brayden Schenn",
+      "player_team2_received": "Jonathan Drouin",
+      "description_sk": "New York Islanders získali kapitána St. Louis Blues Braydena Schenna. Blues výmenou získali Jonathana Drouina, dva výbery v drafte a jedného prospekta."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "TBL",
+      "team2": "LAK",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "",
+      "description_sk": "Corey Perry sa prostredníctvom výmeny z Los Angeles Kings vracia do tímu Tampa Bay Lightning."
+    },
+    {
+      "date": "2026-02-04",
+      "team1": "LAK",
+      "team2": "NYR",
+      "player_team1_received": "Artemi Panarin",
+      "player_team2_received": "",
+      "description_sk": "Los Angeles Kings získali elitného tvorcu hry Artemiho Panarina od New York Rangers. Rangers získali nešpecifikovanú protihodnotu."
+    },
     {
       "date": "2026-03-06",
       "team1": "DAL",
@@ -427,6 +475,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie utrpené na Zimných olympijských hrách 2026, umiestnený na listinu zranených, vynechá minimálne štyri týždne."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
