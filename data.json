@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-03-07T07:43:27.001498",
+  "last_updated": "2026-03-07T08:01:24.823111",
   "trades": [
+    {
+      "date": "2026-03-05",
+      "team1": "BUF",
+      "team2": "WPG",
+      "player_team1_received": "Logan Stanley, Luke Schenn",
+      "player_team2_received": "Nešpecifikovaná protihodnota",
+      "description_sk": "Sabres získali obrancov Logana Stanleyho a Luka Schenna výmenou od Jets."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "ANA",
+      "team2": "WSH",
+      "player_team1_received": "John Carlson",
+      "player_team2_received": "Nešpecifikovaná protihodnota",
+      "description_sk": "Capitals vymenili veterána obrancu Johna Carlsona do Ducks."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "DET",
+      "team2": "STL",
+      "player_team1_received": "Justin Faulk",
+      "player_team2_received": "Nešpecifikovaná protihodnota",
+      "description_sk": "Red Wings získali obrancu Justina Faulka výmenou od Blues."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "TBL",
+      "team2": "LAK",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "Nešpecifikovaná protihodnota",
+      "description_sk": "Corey Perry sa sťahuje späť do Lightning po výmene od Kings."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "Nešpecifikovaná protihodnota",
+      "description_sk": "Avalanche získali späť útočníka Nazema Kadriho výmenou od Flames."
+    },
+    {
+      "date": "2026-02-04",
+      "team1": "LAK",
+      "team2": "NYR",
+      "player_team1_received": "Artemi Panarin",
+      "player_team2_received": "Nešpecifikovaná protihodnota",
+      "description_sk": "Kings získali elitného tvorcu hry Artemiho Panarina; Rangers dostali nešpecifikovanú protihodnotu."
+    },
     {
       "date": "2026-03-06",
       "team1": "TBL",
@@ -803,6 +851,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Vynechá minimálne štyri týždne po nešikovnom údere na Zimných olympijských hrách 2026. Penguins ho umiestnili na listinu zranených hráčov (IR)."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
