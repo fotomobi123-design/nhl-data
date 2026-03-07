@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-03-07T21:39:56.113167",
+  "last_updated": "2026-03-07T21:56:46.397103",
   "trades": [
+    {
+      "date": "2026-03-07",
+      "team1": "ANA",
+      "team2": "WSH",
+      "player_team1_received": "John Carlson",
+      "player_team2_received": "",
+      "description_sk": "John Carlson, obranca Capitals, bol vymenený do Ducks."
+    },
     {
       "date": "2026-03-07",
       "team1": "SEA",
@@ -1299,6 +1307,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (po nepríjemnom zásahu na Zimných olympijských hrách 2026), mimo hry minimálne štyri týždne. Zaradený na listinu zranených."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
