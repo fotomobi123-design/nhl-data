@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T19:57:28.131076",
+  "last_updated": "2026-03-07T20:52:43.103873",
   "trades": [
     {
       "date": "2026-03-07",
@@ -1275,6 +1275,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Mimo hry minimálne štyri týždne po nešikovnom náraze na Zimných olympijských hrách 2026. (Penguins ho umiestnili na listinu zranených hráčov.)"
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
