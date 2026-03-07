@@ -1,6 +1,38 @@
 {
-  "last_updated": "2026-03-07T13:51:43.552340",
+  "last_updated": "2026-03-07T14:51:43.822183",
   "trades": [
+    {
+      "date": "2026-03-06",
+      "team1": "DET",
+      "team2": "STL",
+      "player_team1_received": "Justin Faulk",
+      "player_team2_received": "Neznáma protihodnota",
+      "description_sk": "Red Wings získali 15-ročného veterána obrancu Justina Faulka od Blues."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "TBL",
+      "team2": "LAK",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "Neznáma protihodnota",
+      "description_sk": "Corey Perry sa vracia do tímu Lightning po výmene od Kings."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "Neznáma protihodnota",
+      "description_sk": "Avalanche získali späť Nazema Kadriho od Flames. Kadri predtým získal Stanley Cup s Coloradom v sezóne 2021-22, ale odišiel do Calgary ako voľný hráč."
+    },
+    {
+      "date": "2026-02-04",
+      "team1": "LAK",
+      "team2": "NYR",
+      "player_team1_received": "Artemi Panarin",
+      "player_team2_received": "Neznáma protihodnota",
+      "description_sk": "Kings získali elitného tvorcu hry Artemiho Panarina od Rangers. Rangers získali neuspokojivú protihodnotu."
+    },
     {
       "date": "2026-03-05",
       "team1": "WPG",
@@ -1083,6 +1115,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-06",
+      "player": "Evgeni Malkin",
+      "team": "PIT",
+      "injury_type_sk": "Zákaz činnosti na 5 zápasov za seknutie obrancu Buffala Rasmusa Dahlina."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranený, vynechá minimálne štyri týždne po nešikovnom údere v štvrťfinále ZOH 2026 proti Česku. Penguins ho umiestnili na listinu zranených."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
