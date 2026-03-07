@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-03-07T14:51:43.822183",
+  "last_updated": "2026-03-07T15:43:16.771541",
   "trades": [
+    {
+      "date": "2026-03-07",
+      "team1": "BUF",
+      "team2": "WPG",
+      "player_team1_received": "Logan Stanley",
+      "player_team2_received": "Neznámy",
+      "description_sk": "Buffalo Sabres získali obrancov Logana Stanleyho a Lukea Schenna výmenou od Winnipeg Jets."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "LAK",
+      "team2": "TOR",
+      "player_team1_received": "Scott Laughton",
+      "player_team2_received": "Neznámy",
+      "description_sk": "Toronto Maple Leafs vymenili útočníka Scotta Laughtona do tímu Los Angeles Kings pred uzávierkou prestupov NHL."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "SEA",
+      "team2": "TOR",
+      "player_team1_received": "Bobby McMann",
+      "player_team2_received": "Neznámy",
+      "description_sk": "Toronto Maple Leafs vymenili útočníka Bobbyho McManna do tímu Seattle Kraken pred uzávierkou prestupov NHL."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "DET",
+      "team2": "STL",
+      "player_team1_received": "Justin Faulk",
+      "player_team2_received": "Neznámy",
+      "description_sk": "Detroit Red Wings získali 15-ročného obrancu Justina Faulka výmenou od St. Louis Blues."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "TBL",
+      "team2": "LAK",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "Neznámy",
+      "description_sk": "Corey Perry sa vracia do tímu Tampa Bay Lightning po výmene z Los Angeles Kings."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "Neznámy",
+      "description_sk": "Colorado Avalanche získali späť útočníka Nazema Kadriho výmenou od Calgary Flames. Kadri s Avalanche vyhral Stanley Cup v sezóne 2021-22, no po nej odišiel do Calgary ako voľný hráč."
+    },
     {
       "date": "2026-03-06",
       "team1": "DET",
@@ -1115,6 +1163,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie po nepríjemnom údere na Zimných olympijských hrách 2026. Umiestnený na listinu zranených, mimo hry minimálne štyri týždne."
+    },
     {
       "date": "2026-03-06",
       "player": "Evgeni Malkin",
