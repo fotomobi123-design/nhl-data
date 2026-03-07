@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-03-07T10:51:59.943001",
+  "last_updated": "2026-03-07T11:38:58.714404",
   "trades": [
+    {
+      "date": "2026-02-04",
+      "team1": "LAK",
+      "team2": "NYR",
+      "player_team1_received": "Artemi Panarin",
+      "player_team2_received": null,
+      "description_sk": "Kings získali elitného tvorcu hry Artemiho Panarina od Rangers. Protihodnota zo strany Rangers nebola špecifikovaná."
+    },
     {
       "date": "2026-03-06",
       "team1": "BUF",
@@ -987,6 +995,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie po nešťastnom náraze na ZOH 2026, vynechá minimálne štyri týždne. Umiestnený na listinu zranených."
+    },
     {
       "date": "2026-02-20",
       "player": "Sidney Crosby",
