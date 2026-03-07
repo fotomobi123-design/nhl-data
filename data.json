@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-03-07T15:43:16.771541",
+  "last_updated": "2026-03-07T16:00:48.518420",
   "trades": [
+    {
+      "date": "2026-03-07",
+      "team1": "TBL",
+      "team2": "LAK",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "",
+      "description_sk": "Corey Perry sa vracia do Tampa Bay Lightning po výmene z Los Angeles Kings."
+    },
     {
       "date": "2026-03-07",
       "team1": "BUF",
@@ -1163,6 +1171,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie po nepríjemnom náraze na ZOH 2026, mimo hry minimálne štyri týždne, umiestnený na listinu zranených."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
