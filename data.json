@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-03-07T20:52:43.103873",
+  "last_updated": "2026-03-07T21:39:56.113167",
   "trades": [
+    {
+      "date": "2026-03-07",
+      "team1": "SEA",
+      "team2": "TOR",
+      "player_team1_received": "Bobby McMann",
+      "player_team2_received": "Nespecifikované",
+      "description_sk": "Maple Leafs vymenili útočníka Bobbyho McManna do Krakenu."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "TBL",
+      "team2": "LAK",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "Nespecifikované",
+      "description_sk": "Corey Perry sa vracia do tímu Lightning po výmene z Kings."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "Nespecifikované",
+      "description_sk": "Colorado Avalanche získali útočníka Nazema Kadriho späť vo výmene s Calgary Flames. Kadri predtým získal Stanley Cup s Coloradom v sezóne 2021-22, ale potom odišiel do Calgary ako voľný hráč."
+    },
     {
       "date": "2026-03-07",
       "team1": "DET",
@@ -1275,6 +1299,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie po nešťastnom náraze (awkward hit) na Zimných olympijských hrách 2026, mimo hry minimálne štyri týždne. Umiestnený na listinu zranených."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
