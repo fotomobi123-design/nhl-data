@@ -1,6 +1,46 @@
 {
-  "last_updated": "2026-03-07T11:56:16.296959",
+  "last_updated": "2026-03-07T13:51:43.552340",
   "trades": [
+    {
+      "date": "2026-03-05",
+      "team1": "WPG",
+      "team2": "BUF",
+      "player_team1_received": "Nešpecifikovaná protihodnota",
+      "player_team2_received": "Logan Stanley, Luke Schenn",
+      "description_sk": "Sabres získali obrancov Logan Stanleyho a Luka Schenna od Jets."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "STL",
+      "team2": "DET",
+      "player_team1_received": "Nešpecifikovaná protihodnota",
+      "player_team2_received": "Justin Faulk",
+      "description_sk": "Red Wings získali 15-ročného veterána obrancu Justina Faulka vo výmene s Blues."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "LAK",
+      "team2": "TBL",
+      "player_team1_received": "Nešpecifikovaná protihodnota",
+      "player_team2_received": "Corey Perry",
+      "description_sk": "Stálica finále Stanley Cupu Corey Perry sa po výmene z Kings vracia do Lightning."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "CGY",
+      "team2": "COL",
+      "player_team1_received": "Nešpecifikovaná protihodnota",
+      "player_team2_received": "Nazem Kadri",
+      "description_sk": "Avalanche získali späť útočníka Nazema Kadriho vo výmene s Flames."
+    },
+    {
+      "date": "2026-02-04",
+      "team1": "NYR",
+      "team2": "LAK",
+      "player_team1_received": "Nešpecifikovaná protihodnota",
+      "player_team2_received": "Artemi Panarin",
+      "description_sk": "Los Angeles Kings získali elitného tvorcu hry Artemiho Panarina pre posilnenie v boji o Stanley Cup; Rangers získali nevýraznú protihodnotu."
+    },
     {
       "date": "2026-03-06",
       "team1": "BUF",
@@ -1043,6 +1083,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie utrpené po nepríjemnom náraze na Zimných olympijských hrách 2026, mimo hry minimálne štyri týždne."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
