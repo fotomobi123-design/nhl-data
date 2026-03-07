@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-03-07T21:56:46.397103",
+  "last_updated": "2026-03-07T22:52:38.470559",
   "trades": [
+    {
+      "date": "2026-03-07",
+      "team1": "DET",
+      "team2": "STL",
+      "player_team1_received": "Justin Faulk",
+      "player_team2_received": "Nešpecifikovaná protihodnota",
+      "description_sk": "Detroit Red Wings získali 15-ročného veterána obrancu Justina Faulka vo výmene od St. Louis Blues."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "TBL",
+      "team2": "LAK",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "Nešpecifikovaná protihodnota",
+      "description_sk": "Tampa Bay Lightning získali Coreyho Perryho vo výmene od Los Angeles Kings."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "Nešpecifikovaná protihodnota",
+      "description_sk": "Colorado Avalanche získali späť útočníka Nazema Kadriho od Calgary Flames. Kadri predtým získal Stanley Cup s Coloradom v sezóne 2021-22, ale potom odišiel do Calgary ako voľný hráč."
+    },
     {
       "date": "2026-03-07",
       "team1": "ANA",
@@ -1307,6 +1331,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-07",
+      "player": "Evgeni Malkin",
+      "team": "PIT",
+      "injury_type_sk": "Disciplinárny trest: suspendovaný na 5 zápasov za sekanie obrancu Rasmus Dahlin (BUF)."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Vynechá minimálne štyri týždne po nešikovnom údere na Zimných olympijských hrách 2026."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
