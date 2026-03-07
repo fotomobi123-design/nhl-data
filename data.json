@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-03-07T08:01:24.823111",
+  "last_updated": "2026-03-07T09:00:48.664335",
   "trades": [
+    {
+      "date": "2026-03-06",
+      "team1": "BUF",
+      "team2": "WPG",
+      "player_team1_received": "Logan Stanley, Luke Schenn",
+      "player_team2_received": "",
+      "description_sk": "Sabres získali obrancov Logan Stanleyho a Luke Schenna od Jets po tom, čo boli odmietnutí hviezdou Blues Coltonom Paraykom."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "ANA",
+      "team2": "WSH",
+      "player_team1_received": "John Carlson",
+      "player_team2_received": "",
+      "description_sk": "John Carlson ukončuje svoje pôsobenie v Capitals a bol poslaný do Ducks."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "LAK",
+      "team2": "TOR",
+      "player_team1_received": "Scott Laughton",
+      "player_team2_received": "",
+      "description_sk": "Maple Leafs vymenili útočníka Scotta Laughtona do Kings pred piatkovým prestupovým termínom NHL."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "DET",
+      "team2": "STL",
+      "player_team1_received": "Justin Faulk",
+      "player_team2_received": "",
+      "description_sk": "Red Wings získali 15-ročného veterána obrancu Justina Faulka výmenou od Blues."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "TBL",
+      "team2": "LAK",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "",
+      "description_sk": "Corey Perry sa vracia do Lightning po výmene z Kings."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "",
+      "description_sk": "Avalanche získali späť útočníka Nazema Kadriho výmenou s Flames. Kadri získal Stanley Cup s Coloradom v sezóne 2021-22, ale potom odišiel do Calgary ako voľný hráč."
+    },
+    {
+      "date": "2026-02-04",
+      "team1": "LAK",
+      "team2": "NYR",
+      "player_team1_received": "Artemi Panarin",
+      "player_team2_received": "",
+      "description_sk": "Kings získali elitného tvorcu hry Artemiho Panarina; Rangers získali neuspokojivú protihodnotu."
+    },
     {
       "date": "2026-03-05",
       "team1": "BUF",
@@ -851,6 +907,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-06",
+      "player": "Evgeni Malkin",
+      "team": "PIT",
+      "injury_type_sk": "Disciplinárny trest: zákaz štartu v 5 zápasoch za seknutie Rasmus Dahlin."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie po nešťastnom náraze na ZOH 2026, mimo hry minimálne štyri týždne."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
