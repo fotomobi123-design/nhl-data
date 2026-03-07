@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T16:00:48.518420",
+  "last_updated": "2026-03-07T16:55:31.915027",
   "trades": [
     {
       "date": "2026-03-07",
@@ -1171,6 +1171,36 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-20",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (odstúpil z ľadu po nešikovnom hite vo štvrťfinále ZOH proti Česku)."
+    },
+    {
+      "date": "2026-02-22",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (zabránilo mu hrať v posledných dvoch zápasoch Kanady na ZOH)."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (po nešikovnom hite na Zimných olympijských hrách 2026), vynechá minimálne štyri týždne."
+    },
+    {
+      "date": "2026-02-26",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (utrpené na olympiáde), vynechá minimálne štyri týždne."
+    },
+    {
+      "date": "2026-03-07",
+      "player": "Evgeni Malkin",
+      "team": "PIT",
+      "injury_type_sk": "Zákaz štartu na 5 zápasov (za seknutie Rasmusom Dahlinom)."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
