@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-03-08T19:02:02.489244",
+  "last_updated": "2026-03-08T19:46:02.664781",
   "trades": [
+    {
+      "date": "2026-03-08",
+      "team1": "DET",
+      "team2": "STL",
+      "player_team1_received": "Justin Faulk",
+      "player_team2_received": "N/A",
+      "description_sk": "Detroit Red Wings získali 15-ročného obrancu Justina Faulka výmenou od tímu St. Louis Blues, ktorý prechádza prestavbou."
+    },
+    {
+      "date": "2026-03-08",
+      "team1": "TBL",
+      "team2": "LAK",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "N/A",
+      "description_sk": "Veterán Corey Perry sa vracia do tímu Tampa Bay Lightning po výmene z Los Angeles Kings."
+    },
+    {
+      "date": "2026-03-08",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "N/A",
+      "description_sk": "Colorado Avalanche získali späť útočníka Nazema Kadriho výmenou od Calgary Flames. Kadri vyhral Stanley Cup s Coloradom v sezóne 2021-22, ale potom odišiel do Calgary ako voľný hráč."
+    },
     {
       "date": "2026-03-07",
       "team1": "TOR",
@@ -1611,6 +1635,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-18",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (po nepríjemnom náraze v štvrťfinále ZOH 2026 proti Česku), mimo hry minimálne štyri týždne. Tučniaci umiestnili Crosbyho na listinu zranených po olympijskej prestávke."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
