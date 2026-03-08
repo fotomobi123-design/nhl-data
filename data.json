@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-03-08T11:41:13.419774",
+  "last_updated": "2026-03-08T11:58:30.984853",
   "trades": [
+    {
+      "date": "2026-03-07",
+      "team1": "TBL",
+      "team2": "LAK",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "Neznáma kompenzácia",
+      "description_sk": "Corey Perry sa po výmene z Los Angeles Kings vracia do tímu Tampa Bay Lightning."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "Neznáma kompenzácia",
+      "description_sk": "Colorado Avalanche získali späť útočníka Nazema Kadriho výmenou s Calgary Flames. Kadri získal Stanley Cup s Coloradom v sezóne 2021-22, ale túto mimosezónu odišiel do Calgary ako voľný hráč."
+    },
     {
       "date": "2026-03-06",
       "team1": "DET",
@@ -1427,6 +1443,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Bude mimo hry minimálne štyri týždne po nešikovnom údere na Zimných olympijských hrách 2026. Penguins ho umiestnili na listinu zranených."
+    },
     {
       "date": "2026-03-07",
       "player": "Evgeni Malkin",
