@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T10:54:56.017436",
+  "last_updated": "2026-03-08T11:41:13.419774",
   "trades": [
     {
       "date": "2026-03-06",
@@ -1427,6 +1427,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-07",
+      "player": "Evgeni Malkin",
+      "team": "PIT",
+      "injury_type_sk": "Zákaz činnosti na 5 zápasov za sekanie obrancu Buffala Rasmusa Dahlina."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie po nešťastnom údere na ZOH 2026. Vynechá minimálne štyri týždne, umiestnený na listinu zranených."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
