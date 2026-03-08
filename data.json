@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-03-07T23:59:55.749827",
+  "last_updated": "2026-03-08T05:03:18.658492",
   "trades": [
+    {
+      "date": "2026-03-07",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Avalanche znovu získali útočníka Nazema Kadriho výmenou s Flames. Kadri získal Stanley Cup s Coloradom v sezóne 2021-22, ale túto sezónu odišiel do Calgary ako voľný hráč."
+    },
     {
       "date": "2026-03-07",
       "team1": "COL",
@@ -1339,6 +1347,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Mimo hry minimálne štyri týždne po nešťastnom údere na Zimných olympijských hrách 2026. Umiestnený na listinu zranených po olympijskej prestávke."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
