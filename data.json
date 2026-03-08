@@ -1,6 +1,46 @@
 {
-  "last_updated": "2026-03-08T17:52:01.880838",
+  "last_updated": "2026-03-08T19:02:02.489244",
   "trades": [
+    {
+      "date": "2026-03-07",
+      "team1": "TOR",
+      "team2": "LAK",
+      "player_team1_received": null,
+      "player_team2_received": "Scott Laughton",
+      "description_sk": "Maple Leafs vymenili útočníka Scotta Laughtona do tímu Kings."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "TOR",
+      "team2": "SEA",
+      "player_team1_received": null,
+      "player_team2_received": "Bobby McMann",
+      "description_sk": "Maple Leafs vymenili útočníka Bobbyho McManna do tímu Kraken."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "STL",
+      "team2": "DET",
+      "player_team1_received": null,
+      "player_team2_received": "Justin Faulk",
+      "description_sk": "Red Wings získali 15-ročného veterána obrancu Justina Faulka vo výmene od Blues."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "LAK",
+      "team2": "TBL",
+      "player_team1_received": null,
+      "player_team2_received": "Corey Perry",
+      "description_sk": "Corey Perry zamieril späť do tímu Lightning po výmene od Kings."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "CGY",
+      "team2": "COL",
+      "player_team1_received": null,
+      "player_team2_received": "Nazem Kadri",
+      "description_sk": "Avalanche získali späť útočníka Nazema Kadriho vo výmene od Flames."
+    },
     {
       "date": "2026-03-07",
       "team1": "TBL",
@@ -1571,6 +1611,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie po nepríjemnom náraze (proti Česku na ZOH 2026), mimo hry minimálne štyri týždne (zaradený na listinu zranených)."
+    },
     {
       "date": "2026-02-18",
       "player": "Sidney Crosby",
