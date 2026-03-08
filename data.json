@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-03-08T15:47:12.616101",
+  "last_updated": "2026-03-08T16:02:45.994964",
   "trades": [
+    {
+      "date": "2026-03-07",
+      "team1": "DET",
+      "team2": "STL",
+      "player_team1_received": "Justin Faulk",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Detroit Red Wings získali obrancu Justina Faulka v trejde so St. Louis Blues."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "TBL",
+      "team2": "LAK",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Corey Perry bol vymenený z Los Angeles Kings do Tampa Bay Lightning."
+    },
     {
       "date": "2026-03-07",
       "team1": "DET",
@@ -1499,6 +1515,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie po nešťastnom údere na ZOH 2026, umiestnený na listinu zranených, očakávaná absencia minimálne štyri týždne."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
