@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-03-08T14:53:44.369016",
+  "last_updated": "2026-03-08T15:47:12.616101",
   "trades": [
+    {
+      "date": "2026-03-07",
+      "team1": "DET",
+      "team2": "STL",
+      "player_team1_received": "Justin Faulk",
+      "player_team2_received": "Nezadané",
+      "description_sk": "Red Wings získali 15-ročného veterána obrancu Justina Faulka v trejde s Blues."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "Nezadané",
+      "description_sk": "Corey Perry sa vracia do Lightning po trejde od Kings."
+    },
     {
       "date": "2026-03-06",
       "team1": "LAK",
@@ -1483,6 +1499,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Mimo hry minimálne štyri týždne po nešťastnom údere na Zimných olympijských hrách 2026; umiestnený na listinu zranených."
+    },
     {
       "date": "2026-03-07",
       "player": "Evgeni Malkin",
