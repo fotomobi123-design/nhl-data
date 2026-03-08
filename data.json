@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-03-08T21:47:59.139734",
+  "last_updated": "2026-03-08T22:00:23.078348",
   "trades": [
+    {
+      "date": "2026-03-08",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "",
+      "description_sk": "Colorado Avalanche získali útočníka Nazema Kadriho výmenou od Calgary Flames."
+    },
     {
       "date": "2026-03-08",
       "team1": "DET",
@@ -1675,6 +1683,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-08",
+      "player": "Gabriel Landeskog",
+      "team": "COL",
+      "injury_type_sk": "Zranenie dolnej časti tela, stav vyhodnocovaný týždeň po týždni."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Mimo hry minimálne štyri týždne po nešikovnom náraze na Zimných olympijských hrách 2026."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
