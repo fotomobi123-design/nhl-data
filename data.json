@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-03-08T22:54:28.791061",
+  "last_updated": "2026-03-08T23:49:19.887907",
   "trades": [
+    {
+      "date": "2026-03-08",
+      "team1": "DET",
+      "team2": "STL",
+      "player_team1_received": "Justin Faulk",
+      "player_team2_received": "Nešpecifikované (protihodnota)",
+      "description_sk": "Detroit Red Wings získali 15-ročného veterána obrancu Justina Faulka výmenou zo St. Louis Blues."
+    },
+    {
+      "date": "2026-03-08",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "Nešpecifikované (protihodnota)",
+      "description_sk": "Colorado Avalanche získali späť útočníka Nazema Kadriho výmenou s Calgary Flames. Kadri získal Stanley Cup s Coloradom v sezóne 2021-22, no potom odišiel do Calgary ako voľný hráč."
+    },
     {
       "date": "2026-03-08",
       "team1": "LAK",
@@ -1699,6 +1715,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-08",
+      "player": "Gabriel Landeskog",
+      "team": "COL",
+      "injury_type_sk": "Zranenie dolnej časti tela. Očakávaný návrat: mimo hry týždeň až týždeň (week-to-week)."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (nešpecifikované, po nepríjemnom náraze v ZOH 2026). Umiestnený na listinu zranených. Očakávaný návrat: vynechá minimálne štyri týždne."
+    },
     {
       "date": "2026-03-08",
       "player": "Gabriel Landeskog",
