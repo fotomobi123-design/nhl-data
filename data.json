@@ -1,6 +1,46 @@
 {
-  "last_updated": "2026-03-08T16:02:45.994964",
+  "last_updated": "2026-03-08T16:58:18.093065",
   "trades": [
+    {
+      "date": "2026-03-07",
+      "team1": "LAK",
+      "team2": "TOR",
+      "player_team1_received": "Scott Laughton",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Toronto Maple Leafs vymenili útočníka Scotta Laughtona do Los Angeles Kings pred piatkovým termínom na prestupy v NHL."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "SEA",
+      "team2": "TOR",
+      "player_team1_received": "Bobby McMann",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Toronto Maple Leafs vymenili útočníka Bobbyho McManna do Seattle Kraken pred piatkovým termínom na prestupy v NHL."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "DET",
+      "team2": "STL",
+      "player_team1_received": "Justin Faulk",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Detroit Red Wings získali 15-ročného veterána obrancu Justina Faulka vo výmene od prestavujúcich sa St. Louis Blues."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "TBL",
+      "team2": "LAK",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Corey Perry, pravidelný účastník finále Stanley Cupu, sa vracia do tímu Tampa Bay Lightning po výmene od Los Angeles Kings."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Colorado Avalanche opäť získali útočníka Nazema Kadriho vo výmene od Calgary Flames. Kadri vyhral Stanley Cup s Coloradom v sezóne 2021-22, ale odišiel do Calgary ako voľný hráč."
+    },
     {
       "date": "2026-03-07",
       "team1": "DET",
@@ -1515,6 +1555,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (nešpecifikované) po nešikovnom náraze na Zimných olympijských hrách 2026; Penguins ho umiestnili na listinu zranených, vynechá minimálne štyri týždne."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
