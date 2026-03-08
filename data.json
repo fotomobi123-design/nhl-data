@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-03-08T22:00:23.078348",
+  "last_updated": "2026-03-08T22:54:28.791061",
   "trades": [
+    {
+      "date": "2026-03-08",
+      "team1": "LAK",
+      "team2": "",
+      "player_team1_received": "Artemi Panarin",
+      "player_team2_received": "",
+      "description_sk": "Artemi Panarin bol vymenený do Los Angeles Kings."
+    },
+    {
+      "date": "2026-03-08",
+      "team1": "TBL",
+      "team2": "LAK",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "",
+      "description_sk": "Corey Perry sa vracia do tímu Lightning po výmene z tímu Kings."
+    },
     {
       "date": "2026-03-08",
       "team1": "COL",
@@ -1683,6 +1699,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-08",
+      "player": "Gabriel Landeskog",
+      "team": "COL",
+      "injury_type_sk": "Zranenie dolnej časti tela, mimo hry týždeň čo týždeň."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (po nepríjemnom hite na Zimných olympijských hrách 2026), mimo hry minimálne štyri týždne. Zaradený na listinu zranených."
+    },
     {
       "date": "2026-03-08",
       "player": "Gabriel Landeskog",
