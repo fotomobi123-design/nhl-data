@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-03-08T20:54:42.125015",
+  "last_updated": "2026-03-08T21:47:59.139734",
   "trades": [
+    {
+      "date": "2026-03-08",
+      "team1": "DET",
+      "team2": "STL",
+      "player_team1_received": "Justin Faulk",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Red Wings získali obrancu Justina Faulka v trejde s Blues."
+    },
+    {
+      "date": "2026-03-08",
+      "team1": "TBL",
+      "team2": "LAK",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Corey Perry zamieril späť do Lightning po trejde z Kings."
+    },
+    {
+      "date": "2026-03-08",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Avalanche získali späť útočníka Nazema Kadriho v trejde s Flames."
+    },
     {
       "date": "2026-03-08",
       "team1": "TBL",
@@ -1651,6 +1675,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie utrpené na Zimných olympijských hrách 2026, mimo hry minimálne štyri týždne. Umiestnený na listinu zranených."
+    },
     {
       "date": "2026-03-08",
       "player": "Evgeni Malkin",
