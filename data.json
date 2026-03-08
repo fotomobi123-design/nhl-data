@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-03-08T13:53:15.588637",
+  "last_updated": "2026-03-08T14:53:44.369016",
   "trades": [
+    {
+      "date": "2026-03-06",
+      "team1": "LAK",
+      "team2": "TOR",
+      "player_team1_received": "Scott Laughton",
+      "player_team2_received": null,
+      "description_sk": "Maple Leafs vymenili útočníka Scotta Laughtona do Kings pred uzávierkou prestupov."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "SEA",
+      "team2": "TOR",
+      "player_team1_received": "Bobby McMann",
+      "player_team2_received": null,
+      "description_sk": "Maple Leafs vymenili útočníka Bobbyho McManna do Kraken pred uzávierkou prestupov."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": null,
+      "description_sk": "Avalanche opätovne získali útočníka Nazema Kadriho výmenou od Flames. Kadri získal s Coloradom Stanley Cup v sezóne 2021-22, ale následne odišiel do Calgary ako voľný hráč."
+    },
     {
       "date": "2026-03-07",
       "team1": "TBL",
@@ -1459,6 +1483,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-07",
+      "player": "Evgeni Malkin",
+      "team": "PIT",
+      "injury_type_sk": "Suspendovaný na päť zápasov za seknutie obrancu Buffala Rasmusa Dahlina."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie po nepríjemnom údere na ZOH 2026, vynechá minimálne štyri týždne. Zaradený na listinu zranených po olympijskej prestávke."
+    },
     {
       "date": "2026-03-07",
       "player": "Evgeni Malkin",
