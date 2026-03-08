@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-03-08T07:55:18.754334",
+  "last_updated": "2026-03-08T09:00:24.324434",
   "trades": [
+    {
+      "date": "2026-03-07",
+      "team1": "STL",
+      "team2": "DET",
+      "player_team1_received": "Neznáme aktíva/hráči",
+      "player_team2_received": "Justin Faulk",
+      "description_sk": "Detroit Red Wings získali 15-ročného veterána obrancu Justina Faulka vo výmene so St. Louis Blues."
+    },
+    {
+      "date": "2026-03-07",
+      "team1": "CGY",
+      "team2": "COL",
+      "player_team1_received": "Neznáme aktíva/hráči",
+      "player_team2_received": "Nazem Kadri",
+      "description_sk": "Colorado Avalanche získali späť útočníka Nazema Kadriho vo výmene s Calgary Flames."
+    },
     {
       "date": "2026-03-07",
       "team1": "DET",
@@ -1363,6 +1379,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranený minimálne na štyri týždne po nešikovnom údere na ZOH 2026. Umiestnený na listinu zranených."
+    },
     {
       "date": "2026-02-20",
       "player": "Sidney Crosby",
