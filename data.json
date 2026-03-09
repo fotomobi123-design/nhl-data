@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-03-09T19:55:21.121422",
+  "last_updated": "2026-03-09T21:04:20.852547",
   "trades": [
+    {
+      "date": "2026-03-06",
+      "team1": "CBJ",
+      "team2": null,
+      "player_team1_received": "Conor Garland",
+      "player_team2_received": null,
+      "description_sk": "Columbus Blue Jackets získali Conora Garlanda na prestupovej uzávierke."
+    },
     {
       "date": "2026-03-09",
       "team1": "CBJ",
@@ -1819,6 +1827,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-09",
+      "player": "Brad Marchand",
+      "team": "FLA",
+      "injury_type_sk": "Pravdepodobné ukončenie sezóny pre Panthers kvôli zraneniu."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie utrpené počas Zimných olympijských hier 2026, mimo hry minimálne štyri týždne."
+    },
     {
       "date": "2026-03-08",
       "player": "Gabriel Landeskog",
