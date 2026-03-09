@@ -1,6 +1,38 @@
 {
-  "last_updated": "2026-03-09T11:59:02.154883",
+  "last_updated": "2026-03-09T15:15:22.641307",
   "trades": [
+    {
+      "date": "2026-03-08",
+      "team1": "LAK",
+      "team2": "Neuvedené",
+      "player_team1_received": "Artemi Panarin",
+      "player_team2_received": "Neuvedené",
+      "description_sk": "Artemi Panarin bol vymenený do tímu Los Angeles Kings."
+    },
+    {
+      "date": "2026-03-09",
+      "team1": "TBL",
+      "team2": "LAK",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "Neuvedené",
+      "description_sk": "Skúsený útočník Corey Perry sa vracia do tímu Tampa Bay Lightning po výmene od Los Angeles Kings."
+    },
+    {
+      "date": "2026-03-09",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "Neuvedené",
+      "description_sk": "Colorado Avalanche získali späť útočníka Nazema Kadriho výmenou s Calgary Flames."
+    },
+    {
+      "date": "2026-03-09",
+      "team1": "CBJ",
+      "team2": "Neuvedené",
+      "player_team1_received": "Conor Garland",
+      "player_team2_received": "Neuvedené",
+      "description_sk": "Columbus Blue Jackets získali Conora Garlanda na prestupovom termíne."
+    },
     {
       "date": "2026-03-08",
       "team1": "DET",
@@ -1747,6 +1779,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-09",
+      "player": "Gabriel Landeskog",
+      "team": "COL",
+      "injury_type_sk": "Zranenie dolnej časti tela, vyradený na týždne."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (po nepríjemnom náraze) na Zimných olympijských hrách 2026, vyradený minimálne na štyri týždne, umiestnený na listinu zranených hráčov."
+    },
     {
       "date": "2026-03-08",
       "player": "Gabriel Landeskog",
