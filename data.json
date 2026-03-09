@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-03-09T21:04:20.852547",
+  "last_updated": "2026-03-09T22:00:21.998686",
   "trades": [
+    {
+      "date": "2026-03-09",
+      "team1": "DET",
+      "team2": "STL",
+      "player_team1_received": "Justin Faulk",
+      "player_team2_received": "Neuvedený hráč/výber draftu",
+      "description_sk": "Detroit Red Wings získali obrancu Justina Faulka od St. Louis Blues."
+    },
+    {
+      "date": "2026-03-09",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "Neuvedený hráč/výber draftu",
+      "description_sk": "Colorado Avalanche získali Nazema Kadriho späť v obchode s Calgary Flames."
+    },
     {
       "date": "2026-03-06",
       "team1": "CBJ",
@@ -1827,6 +1843,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-09",
+      "player": "Gabriel Landeskog",
+      "team": "COL",
+      "injury_type_sk": "Mimo hry týždeň až týždeň (neurčito) kvôli zraneniu dolnej časti tela."
+    },
+    {
+      "date": "2026-03-09",
+      "player": "Brad Marchand",
+      "team": "FLA",
+      "injury_type_sk": "Panthers neočakávajú, že Brad Marchand bude v dohľadnej dobe hrať; možný koniec sezóny."
+    },
     {
       "date": "2026-03-09",
       "player": "Brad Marchand",
