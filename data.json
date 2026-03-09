@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-03-09T15:15:22.641307",
+  "last_updated": "2026-03-09T18:01:09.603980",
   "trades": [
+    {
+      "date": "2026-03-06",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "Nešpecifikované",
+      "description_sk": "Colorado Avalanche znova získali útočníka Nazema Kadriho výmenou od Calgary Flames."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "CBJ",
+      "team2": "Neznámy tím",
+      "player_team1_received": "Conor Garland",
+      "player_team2_received": "Nešpecifikované",
+      "description_sk": "Columbus Blue Jackets získali Conora Garlanda pred uzávierkou prestupov."
+    },
     {
       "date": "2026-03-08",
       "team1": "LAK",
@@ -1779,6 +1795,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (nešpecifikované) po nešikovnom hite na Zimných olympijských hrách 2026, zaradený na listinu zranených, vynechá minimálne štyri týždne."
+    },
     {
       "date": "2026-03-09",
       "player": "Gabriel Landeskog",
