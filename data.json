@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-03-10T21:03:10.693177",
+  "last_updated": "2026-03-10T21:55:58.884422",
   "trades": [
+    {
+      "date": "2026-03-08",
+      "team1": "LAK",
+      "team2": "N/A",
+      "player_team1_received": "Artemi Panarin",
+      "player_team2_received": "N/A",
+      "description_sk": "Artemi Panarin bol vymenený do Los Angeles."
+    },
+    {
+      "date": "2026-03-10",
+      "team1": "TBL",
+      "team2": "LAK",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "N/A",
+      "description_sk": "Corey Perry sa po výmene od Kings vracia späť do Lightning."
+    },
+    {
+      "date": "2026-03-10",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "N/A",
+      "description_sk": "Avalanche opätovne získali útočníka Nazema Kadriho výmenou s Flames. Kadri získal Stanley Cup s Coloradom v sezóne 2021-22, ale potom odišiel do Calgary ako voľný hráč."
+    },
     {
       "date": "2026-03-10",
       "team1": "DET",
@@ -1987,6 +2011,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-10",
+      "player": "Brad Marchand",
+      "team": "FLA",
+      "injury_type_sk": "Zranenie, ktoré ho pravdepodobne vyradí do konca sezóny."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie po nepríjemnom náraze na ZOH 2026, mimo hru minimálne štyri týždne. Penguins ho umiestnili na listinu zranených."
+    },
     {
       "date": "2026-03-10",
       "player": "Gabriel Landeskog",
