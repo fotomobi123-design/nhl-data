@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T10:03:31.957330",
+  "last_updated": "2026-03-10T11:51:01.822582",
   "trades": [
     {
       "date": "2026-03-09",
@@ -1915,6 +1915,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-09",
+      "player": "Gabriel Landeskog",
+      "team": "COL",
+      "injury_type_sk": "Zranenie dolnej časti tela, mimo hry týždeň čo týždeň"
+    },
+    {
+      "date": "2026-03-09",
+      "player": "Brad Marchand",
+      "team": "FLA",
+      "injury_type_sk": "Neočakáva sa, že bude čoskoro hrať, sezóna by mohla byť ukončená (pravdepodobne zranenie)"
+    },
+    {
+      "date": "2026-02-20",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (po náraze na ZOH 2026), mimo hry minimálne štyri týždne, umiestnený na listinu zranených"
+    },
     {
       "date": "2026-03-09",
       "player": "Gabriel Landeskog",
