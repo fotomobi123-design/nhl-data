@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T17:30:51.554167",
+  "last_updated": "2026-03-10T19:51:44.471673",
   "trades": [
     {
       "date": "2026-03-08",
@@ -1971,6 +1971,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-09",
+      "player": "Brad Marchand",
+      "team": "FLA",
+      "injury_type_sk": "Možné ukončenie sezóny. Panthers neočakávajú jeho skorý návrat."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie po nepríjemnom narazení počas Zimných olympijských hier 2026 proti Česku, mimo hry minimálne štyri týždne. Umiestnený na listinu zranených."
+    },
     {
       "date": "2026-03-09",
       "player": "Gabriel Landeskog",
