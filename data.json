@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-03-10T05:01:14.231239",
+  "last_updated": "2026-03-10T07:30:43.651692",
   "trades": [
+    {
+      "date": "2026-03-09",
+      "team1": "DET",
+      "team2": "STL",
+      "player_team1_received": "Justin Faulk",
+      "player_team2_received": "Neznáme aktíva",
+      "description_sk": "Red Wings získali 15-ročného obrancu Justina Faulka výmenou z Blues."
+    },
+    {
+      "date": "2026-03-09",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "Neznáme aktíva",
+      "description_sk": "Avalanche získali späť útočníka Nazema Kadriho výmenou s Flames. Kadri vyhral Stanley Cup s Coloradom v sezóne 2021-22."
+    },
     {
       "date": "2026-03-06",
       "team1": "TBL",
@@ -1883,6 +1899,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-09",
+      "player": "Gabriel Landeskog",
+      "team": "COL",
+      "injury_type_sk": "Zranenie dolnej časti tela, mimo hru týždeň až týždeň."
+    },
+    {
+      "date": "2026-03-09",
+      "player": "Brad Marchand",
+      "team": "FLA",
+      "injury_type_sk": "Hrozí, že bude odstavený do konca sezóny."
+    },
+    {
+      "date": "2026-02-20",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (nešikovný úder) počas štvrťfinále proti Česku na Zimných olympijských hrách. Vynechá minimálne štyri týždne a bol zaradený na listinu zranených hráčov."
+    },
     {
       "date": "2026-03-09",
       "player": "Gabriel Landeskog",
