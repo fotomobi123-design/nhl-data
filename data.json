@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T21:55:58.884422",
+  "last_updated": "2026-03-10T22:58:47.845969",
   "trades": [
     {
       "date": "2026-03-08",
@@ -2011,6 +2011,30 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-10",
+      "player": "Evgeni Malkin",
+      "team": "PIT",
+      "injury_type_sk": "Suspendovaný na 5 zápasov za seknutie obrancu Buffala Rasmusu Dahlinovi."
+    },
+    {
+      "date": "2026-03-10",
+      "player": "Gabriel Landeskog",
+      "team": "COL",
+      "injury_type_sk": "Mimo hry týždeň až týždeň so zranením dolnej časti tela."
+    },
+    {
+      "date": "2026-03-10",
+      "player": "Brad Marchand",
+      "team": "FLA",
+      "injury_type_sk": "Možné ukončenie sezóny, neočakáva sa, že bude čoskoro hrať."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Minimálne štyri týždne mimo hry po nešikovnom údere na Zimných olympijských hrách 2026."
+    },
     {
       "date": "2026-03-10",
       "player": "Brad Marchand",
