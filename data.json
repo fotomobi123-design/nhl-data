@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-03-10T19:51:44.471673",
+  "last_updated": "2026-03-10T21:03:10.693177",
   "trades": [
+    {
+      "date": "2026-03-10",
+      "team1": "DET",
+      "team2": "STL",
+      "player_team1_received": "Justin Faulk",
+      "player_team2_received": "Neznamé aktíva",
+      "description_sk": "Red Wings získali 15-ročného veterána obrancu Justina Faulka v rámci výmeny s Blues."
+    },
+    {
+      "date": "2026-03-10",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "Neznamé aktíva",
+      "description_sk": "Avalanche získali späť útočníka Nazema Kadriho v rámci výmeny s Flames. Kadri vyhral Stanley Cup s Coloradom v sezóne 2021-22, no následne odišiel do Calgary ako voľný hráč."
+    },
     {
       "date": "2026-03-08",
       "team1": "LAK",
@@ -1971,6 +1987,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-10",
+      "player": "Gabriel Landeskog",
+      "team": "COL",
+      "injury_type_sk": "Zranenie dolnej časti tela; doba návratu je stanovená na „týždeň až týždeň“."
+    },
+    {
+      "date": "2026-03-10",
+      "player": "Brad Marchand",
+      "team": "FLA",
+      "injury_type_sk": "Sezóna by mohla byť predčasne ukončená kvôli zraneniu/zdravotným problémom; nie je očakávaný návrat čoskoro."
+    },
+    {
+      "date": "2026-02-26",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie utrpené po nešťastnom náraze vo štvrťfinále ZOH 2026 proti Česku; vynechal posledné dva zápasy Kanady, umiestnený na listinu zranených (IR) a vynechá minimálne štyri týždne."
+    },
     {
       "date": "2026-03-09",
       "player": "Brad Marchand",
