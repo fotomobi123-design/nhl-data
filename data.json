@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-03-09T23:54:19.238772",
+  "last_updated": "2026-03-10T05:01:14.231239",
   "trades": [
+    {
+      "date": "2026-03-06",
+      "team1": "TBL",
+      "team2": "LAK",
+      "player_team1_received": "Corey Perry",
+      "player_team2_received": "",
+      "description_sk": "Corey Perry bol vymenený z Kings do Tampa Bay Lightning."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "",
+      "description_sk": "Colorado Avalanche získali Nazema Kadriho späť vo výmene s Calgary Flames."
+    },
     {
       "date": "2026-03-09",
       "team1": "COL",
@@ -1867,6 +1883,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-09",
+      "player": "Gabriel Landeskog",
+      "team": "COL",
+      "injury_type_sk": "Zranenie dolnej časti tela, stav posudzovaný týždeň čo týždeň."
+    },
+    {
+      "date": "2026-03-09",
+      "player": "Brad Marchand",
+      "team": "FLA",
+      "injury_type_sk": "Možné zranenie ukončujúce sezónu, neočakáva sa, že čoskoro opäť nastúpi."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie po nepríjemnom údere na ZOH 2026, mimo hry minimálne štyri týždne, umiestnený na listinu zranených."
+    },
     {
       "date": "2026-03-09",
       "player": "Gabriel Landeskog",
