@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-03-10T07:30:43.651692",
+  "last_updated": "2026-03-10T10:03:31.957330",
   "trades": [
+    {
+      "date": "2026-03-09",
+      "team1": "CBJ",
+      "team2": "N/A",
+      "player_team1_received": "Conor Garland",
+      "player_team2_received": "N/A",
+      "description_sk": "Columbus Blue Jackets získali Conora Garlanda počas uzávierky prestupov."
+    },
+    {
+      "date": "2026-03-06",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "N/A",
+      "description_sk": "Colorado Avalanche získali späť útočníka Nazema Kadriho výmenou s Calgary Flames. Kadri získal Stanley Cup s Coloradom v sezóne 2021-22, ale potom odišiel do Calgary ako voľný hráč."
+    },
     {
       "date": "2026-03-09",
       "team1": "DET",
@@ -1899,6 +1915,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-09",
+      "player": "Gabriel Landeskog",
+      "team": "COL",
+      "injury_type_sk": "Zranenie dolnej časti tela; mimo hry týždeň až týždeň (week-to-week)."
+    },
+    {
+      "date": "2026-03-09",
+      "player": "Brad Marchand",
+      "team": "FLA",
+      "injury_type_sk": "Možné ukončenie sezóny pre zranenie (typ zranenia nešpecifikovaný), s klesajúcimi nádejami tímu na play-off."
+    },
+    {
+      "date": "2026-02-18",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (nešikovný úder) utrpené vo štvrťfinále proti Česku na Zimných olympijských hrách 2026; vynechá minimálne štyri týždne a bol umiestnený na listinu zranených."
+    },
     {
       "date": "2026-03-09",
       "player": "Gabriel Landeskog",
