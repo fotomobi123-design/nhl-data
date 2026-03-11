@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-03-10T23:54:37.124775",
+  "last_updated": "2026-03-11T05:04:56.585116",
   "trades": [
+    {
+      "date": "2026-03-10",
+      "team1": "COL",
+      "team2": "CGY",
+      "player_team1_received": "Nazem Kadri",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Colorado Avalanche získali späť útočníka Nazema Kadriho výmenou s Calgary Flames. Kadri získal s Coloradom Stanley Cup v sezóne 2021-22, no potom odišiel do Calgary ako voľný hráč."
+    },
     {
       "date": "2026-03-10",
       "team1": "TBL",
@@ -2027,6 +2035,30 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (mimo hry minimálne štyri týždne po nešikovnom údere na ZOH 2026, odstúpil z ľadu po nešikovnom údere vo štvrťfinále proti Česku, zranenie mu zabránilo hrať v posledných dvoch zápasoch Kanady)"
+    },
+    {
+      "date": "2026-03-10",
+      "player": "Gabriel Landeskog",
+      "team": "COL",
+      "injury_type_sk": "Zranenie dolnej časti tela, týždeň po týždni."
+    },
+    {
+      "date": "2026-03-10",
+      "player": "Brad Marchand",
+      "team": "FLA",
+      "injury_type_sk": "Možné ukončenie sezóny (dôvod nie je špecifikovaný, ale naznačuje vážne zranenie/stav)."
+    },
+    {
+      "date": "2026-03-10",
+      "player": "Charlie McAvoy",
+      "team": "BOS",
+      "injury_type_sk": "Stratené zuby (potrebuje ďalšiu zubnú prácu)."
+    },
     {
       "date": "2026-03-10",
       "player": "Gabriel Landeskog",
