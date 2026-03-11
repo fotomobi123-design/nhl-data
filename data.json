@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T19:52:04.773252",
+  "last_updated": "2026-03-11T21:02:52.526147",
   "trades": [
     {
       "date": "2026-03-08",
@@ -2043,6 +2043,36 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-11",
+      "player": "Brad Marchand",
+      "team": "FLA",
+      "injury_type_sk": "Možné odstavenie na celú sezónu kvôli nešpecifikovanému zraneniu."
+    },
+    {
+      "date": "2026-02-20",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (krívanie po nešťastnom náraze vo štvrťfinále ZOH proti Česku)."
+    },
+    {
+      "date": "2026-02-22",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie, ktoré mu zabránilo hrať v posledných dvoch zápasoch Kanady na ZOH 2026."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie po nešťastnom náraze na Zimných olympijských hrách 2026, mimo hry minimálne štyri týždne."
+    },
+    {
+      "date": "2026-02-26",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie utrpel na Zimných olympijských hrách, vynechá minimálne štyri týždne."
+    },
     {
       "date": "2026-03-11",
       "player": "Brad Marchand",
