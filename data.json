@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T05:04:56.585116",
+  "last_updated": "2026-03-11T07:35:08.619087",
   "trades": [
     {
       "date": "2026-03-10",
@@ -2035,6 +2035,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-11",
+      "player": "Brad Marchand",
+      "team": "FLA",
+      "injury_type_sk": "Potenciálny koniec sezóny, neočakáva sa, že v blízkej dobe opäť nastúpi."
+    },
+    {
+      "date": "2026-03-11",
+      "player": "Charlie McAvoy",
+      "team": "BOS",
+      "injury_type_sk": "Stratené zuby, vyžadujúce zubárske ošetrenie."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Minimálne štyri týždne mimo hry po nepríjemnom zásahu na ZOH 2026; zaradený na listinu zranených hráčov (IR)."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
