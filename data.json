@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-03-11T10:03:51.097433",
+  "last_updated": "2026-03-11T11:50:02.871871",
   "trades": [
+    {
+      "date": "2026-03-08",
+      "team1": "LAK",
+      "team2": null,
+      "player_team1_received": "Artemi Panarin",
+      "player_team2_received": null,
+      "description_sk": "Artemi Panarin bol vymenený do Los Angeles Kings. (Pôvodný tím hráča a protiplnenie nie sú v texte špecifikované)."
+    },
     {
       "date": "2026-03-10",
       "team1": "COL",
@@ -2035,6 +2043,30 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-09",
+      "player": "Gabriel Landeskog",
+      "team": "COL",
+      "injury_type_sk": "Zranenie dolnej časti tela, očakávaný návrat týždeň až týždeň."
+    },
+    {
+      "date": "2026-03-11",
+      "player": "Brad Marchand",
+      "team": "FLA",
+      "injury_type_sk": "Predpokladané ukončenie sezóny kvôli zraneniu (typ zranenia nešpecifikovaný), očakáva sa, že už v blízkej dobe nebude hrať."
+    },
+    {
+      "date": "2026-03-11",
+      "player": "Charlie McAvoy",
+      "team": "BOS",
+      "injury_type_sk": "Strata zubov počas zápasu, vyžaduje stomatologický zákrok."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie po nešťastnom náraze v štvrťfinále Zimných olympijských hier 2026 proti Česku (udalosť 18. februára). Umiestnený na listinu zranených, vynechá minimálne štyri týždne."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
