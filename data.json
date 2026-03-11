@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T07:35:08.619087",
+  "last_updated": "2026-03-11T10:03:51.097433",
   "trades": [
     {
       "date": "2026-03-10",
@@ -2035,6 +2035,30 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie z olympijských hier po nepríjemnom úderi, zaradený na listinu zranených, mimo hru minimálne štyri týždne."
+    },
+    {
+      "date": "2026-03-08",
+      "player": "Gabriel Landeskog",
+      "team": "COL",
+      "injury_type_sk": "Zranenie dolnej časti tela, mimo hru týždeň čo týždeň."
+    },
+    {
+      "date": "2026-03-11",
+      "player": "Brad Marchand",
+      "team": "FLA",
+      "injury_type_sk": "Potenciálne zranenie ukončujúce sezónu; očakáva sa, že už čoskoro nebude hrať."
+    },
+    {
+      "date": "2026-03-11",
+      "player": "Charlie McAvoy",
+      "team": "BOS",
+      "injury_type_sk": "Strata zubov počas zápasu."
+    },
     {
       "date": "2026-03-11",
       "player": "Brad Marchand",
