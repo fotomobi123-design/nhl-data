@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T05:08:09.957900",
+  "last_updated": "2026-03-12T07:52:42.836722",
   "trades": [
     {
       "date": "2026-03-08",
@@ -2043,6 +2043,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie po nevhodnom zákroku na Zimných olympijských hrách 2026 (štvrťfinále vs. Česko), mimo hry minimálne štyri týždne. Penguins ho umiestnili na listinu zranených."
+    },
+    {
+      "date": "2026-03-11",
+      "player": "Brad Marchand",
+      "team": "FLA",
+      "injury_type_sk": "Sezóna pravdepodobne ukončená (tím zvažuje jeho odstavenie na zvyšok sezóny)"
+    },
+    {
+      "date": "2026-03-11",
+      "player": "Charlie McAvoy",
+      "team": "BOS",
+      "injury_type_sk": "Strata zubov (počas zápasu)"
+    },
     {
       "date": "2026-03-11",
       "player": "Evgeni Malkin",
