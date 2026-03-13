@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T09:58:07.694629",
+  "last_updated": "2026-03-13T11:46:40.153035",
   "trades": [
     {
       "date": "2026-03-08",
@@ -2043,6 +2043,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-13",
+      "player": "Mark Stone",
+      "team": "VGK",
+      "injury_type_sk": "Zranenie hornej časti tela (vynechal päť zápasov)."
+    },
+    {
+      "date": "2026-03-13",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Zranenie kolena po kolene-na-koleno zákroku od Radka Gudasa (Ducks)."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie utrpené na olympiáde, mimo hry minimálne štyri týždne."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
