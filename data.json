@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T11:46:40.153035",
+  "last_updated": "2026-03-13T14:12:47.399970",
   "trades": [
     {
       "date": "2026-03-08",
@@ -2043,6 +2043,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-13",
+      "player": "Mark Stone",
+      "team": "VGK",
+      "injury_type_sk": "Zranenie hornej časti tela (vynechal päť zápasov), vrátil sa do hry."
+    },
+    {
+      "date": "2026-03-13",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Zranenie kolena po kolene od obrancu Ducks Radka Gudasa."
+    },
     {
       "date": "2026-03-13",
       "player": "Mark Stone",
