@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T17:01:34.445203",
+  "last_updated": "2026-03-14T17:56:00.237904",
   "trades": [
     {
       "date": "2026-03-08",
@@ -2043,6 +2043,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranený na ZOH 2026 po nešťastnom náraze, vynechá minimálne štyri týždne."
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Natrhnutie mediálneho väzu (MCL) v ľavom kolene, sezóna sa pre neho skončila."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
