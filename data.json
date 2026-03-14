@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T22:57:24.358848",
+  "last_updated": "2026-03-14T23:55:34.841521",
   "trades": [
     {
       "date": "2026-03-08",
@@ -2043,6 +2043,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Mimo hry minimálne štyri týždne po nešikovnom údere na Zimných olympijských hrách 2026; Penguins ho zaradili na listinu zranených."
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Roztrhnutá MCL v ľavom kolene, vynechá zvyšok sezóny NHL."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
