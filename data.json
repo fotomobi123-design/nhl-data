@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-03-15T21:55:14.969755",
+  "last_updated": "2026-03-15T23:00:18.402166",
   "trades": [
+    {
+      "date": "2026-03-13",
+      "team1": "SJS",
+      "team2": "SJS",
+      "player_team1_received": "Ty Dellandrea",
+      "player_team2_received": "N/A",
+      "description_sk": "Sharks podpísali s útočníkom Tyom Dellandreom dvojročné predĺženie zmluvy za 3,25 milióna dolárov."
+    },
+    {
+      "date": "2026-03-15",
+      "team1": "WSH",
+      "team2": "N/A",
+      "player_team1_received": "Cole Hutson",
+      "player_team2_received": "N/A",
+      "description_sk": "Capitals podpísali trojročný kontrakt s prospektom Coleom Hutsonom."
+    },
     {
       "date": "2026-03-08",
       "team1": "LAK",
@@ -2043,6 +2059,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie po nepríjemnom údere vo Winter Olympics 2026 (mimo hry minimálne štyri týždne)."
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Natrhnutie mediálneho postranného väzu (MCL), ukončenie sezóny."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
