@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16T09:48:26.113804",
+  "last_updated": "2026-03-16T12:02:18.390830",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Mimo hry minimálne štyri týždne po nešikovnom údere na ZOH 2026; umiestnený na listinu zranených"
+    },
+    {
+      "date": "2026-03-16",
+      "player": "Kirby Dach",
+      "team": "MTL",
+      "injury_type_sk": "Zranenie hornej časti tela po vysokom údere"
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Roztrhnutie mediálneho kolaterálneho väzu (MCL) ukončujúce sezónu"
+    },
     {
       "date": "2026-03-15",
       "player": "Kirby Dach",
