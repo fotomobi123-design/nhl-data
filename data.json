@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16T15:47:28.295378",
+  "last_updated": "2026-03-16T19:36:24.396604",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,30 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Hviezda Penguins mimo hry minimálne štyri týždne po nepríjemnom hite na Zimných olympijských hrách 2026. Umiestnený na listinu zranených."
+    },
+    {
+      "date": "2026-02-20",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Odšuchtal sa z ľadu po nepríjemnom hite vo štvrťfinále ZOH 2026 proti Česku."
+    },
+    {
+      "date": "2026-03-16",
+      "player": "Kirby Dach",
+      "team": "MTL",
+      "injury_type_sk": "Zranenie hornej časti tela po vysokom hite od Jeffreyho Viela z Ducks."
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Kapitán Maple Leafs utrpel natrhnutie mediálneho kolaterálneho väzu (MCL), čo pre neho znamená koniec sezóny."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
