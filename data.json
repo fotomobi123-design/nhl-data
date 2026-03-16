@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16T22:58:34.506929",
+  "last_updated": "2026-03-16T23:56:57.410045",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-16",
+      "player": "Kirby Dach",
+      "team": "MTL",
+      "injury_type_sk": "Zranenie hornej časti tela po vysokom údere od krídelníka Jeffreyho Viela"
+    },
     {
       "date": "2026-03-16",
       "player": "Kirby Dach",
