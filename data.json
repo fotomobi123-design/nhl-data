@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T23:02:11.968107",
+  "last_updated": "2026-03-18T23:57:03.874134",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Natrhnutie mediálneho kolaterálneho väzu (MCL) ukončujúce sezónu."
+    },
+    {
+      "date": "2026-03-17",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie dolnej časti tela, mimo hry do konca základnej časti."
+    },
     {
       "date": "2026-03-14",
       "player": "Auston Matthews",
