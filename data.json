@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T10:08:47.988584",
+  "last_updated": "2026-03-19T11:54:12.200137",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Mimo minimálne štyri týždne po nešikovnom údere na ZOH 2026"
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Roztrhnutie MCL ukončujúce sezónu"
+    },
+    {
+      "date": "2026-03-17",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie dolnej časti tela, mimo do konca základnej časti sezóny"
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
