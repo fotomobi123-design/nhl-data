@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T23:57:03.874134",
+  "last_updated": "2026-03-19T05:17:21.311019",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Trhlina mediálneho postranného väzu (MCL) ukončujúca sezónu."
+    },
     {
       "date": "2026-03-14",
       "player": "Auston Matthews",
