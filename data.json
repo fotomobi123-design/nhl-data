@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T16:27:03.718479",
+  "last_updated": "2026-03-20T18:04:43.839080",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (po nepríjemnom údere na Zimných olympijských hrách 2026), vynechá minimálne štyri týždne. Penguins ho umiestnili na listinu zranených."
+    },
+    {
+      "date": "2026-03-20",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Úspešná operácia mediálneho kolaterálneho väzu (MCL), predpokladaná doba zotavenia 12 týždňov."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
