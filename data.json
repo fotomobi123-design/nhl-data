@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T05:09:32.904560",
+  "last_updated": "2026-03-20T07:52:22.681838",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie z nešikovného nárazu na Zimných olympijských hrách 2026, mimo hry minimálne štyri týždne. Umiestnený na listinu zranených."
+    },
+    {
+      "date": "2026-03-19",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie dolnej časti tela (utrpel v nedeľu), očakáva sa, že vynechá zvyšok základnej časti sezóny."
+    },
     {
       "date": "2026-03-19",
       "player": "Leon Draisaitl",
