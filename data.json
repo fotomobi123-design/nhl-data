@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T11:46:55.261781",
+  "last_updated": "2026-03-20T14:28:54.744309",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Pretrhnutie mediálneho kolaterálneho väzu (MCL), po úspešnej operácii s predpokladanou dobou zotavenia 12 týždňov."
+    },
+    {
+      "date": "2026-03-17",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie dolnej časti tela, vyradený do konca základnej sezóny."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
