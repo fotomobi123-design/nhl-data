@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T10:01:29.027841",
+  "last_updated": "2026-03-20T11:46:55.261781",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (po nepríjemnom náraze na Zimných olympijských hrách), vynechá minimálne štyri týždne."
+    },
+    {
+      "date": "2026-03-19",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Podstúpil úspešnú operáciu MCL, očakávaná doba rekonvalescencie 12 týždňov."
+    },
+    {
+      "date": "2026-03-17",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie dolnej časti tela, vynechá zvyšok základnej časti."
+    },
     {
       "date": "2026-03-14",
       "player": "Auston Matthews",
