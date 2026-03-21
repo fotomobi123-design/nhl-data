@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T19:04:16.706522",
+  "last_updated": "2026-03-21T19:48:10.021097",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,36 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie na Zimných olympijských hrách 2026, mimo hry minimálne štyri týždne."
+    },
+    {
+      "date": "2026-03-21",
+      "player": "Andrew Mangiapane",
+      "team": "CHI",
+      "injury_type_sk": "Nešpecifikované zranenie, vyradený zo zostavy pre zápas."
+    },
+    {
+      "date": "2026-03-21",
+      "player": "Louis Crevier",
+      "team": "CHI",
+      "injury_type_sk": "Nešpecifikované zranenie, vyradený zo zostavy pre zápas."
+    },
+    {
+      "date": "2026-03-21",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Roztrhnutie mediálneho kolaterálneho väzu (MCL), podstúpil úspešnú operáciu s očakávanou dobou rekonvalescencie 12 týždňov."
+    },
+    {
+      "date": "2026-03-21",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie spodnej časti tela, očakáva sa, že vynechá zvyšok základnej časti."
+    },
     {
       "date": "2026-03-21",
       "player": "Andrew Mangiapane",
