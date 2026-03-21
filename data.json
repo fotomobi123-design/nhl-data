@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T10:57:13.694970",
+  "last_updated": "2026-03-21T11:47:40.624603",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,30 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-21",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie dolnej časti tela, očakáva sa, že vynechá zvyšok základnej časti sezóny"
+    },
+    {
+      "date": "2026-03-21",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Natrhnutie MCL (MCL tear), podstúpil úspešnú operáciu MCL, predpokladaná doba zotavenia 12 týždňov"
+    },
+    {
+      "date": "2026-03-21",
+      "player": "Andrew Mangiapane",
+      "team": "CHI",
+      "injury_type_sk": "Nešpecifikované zranenia"
+    },
+    {
+      "date": "2026-03-21",
+      "player": "Louis Crevier",
+      "team": "CHI",
+      "injury_type_sk": "Nešpecifikované zranenia"
+    },
     {
       "date": "2026-03-20",
       "player": "Andrew Mangiapane",
