@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T17:54:32.219482",
+  "last_updated": "2026-03-21T19:04:16.706522",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,36 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-21",
+      "player": "Andrew Mangiapane",
+      "team": "CHI",
+      "injury_type_sk": "vyradený z piatkového zápasu proti Coloradu kvôli bližšie nešpecifikovaným zraneniam"
+    },
+    {
+      "date": "2026-03-21",
+      "player": "Louis Crevier",
+      "team": "CHI",
+      "injury_type_sk": "vyradený z piatkového zápasu proti Coloradu kvôli bližšie nešpecifikovaným zraneniam"
+    },
+    {
+      "date": "2026-03-21",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "podstúpil úspešnú operáciu MCL (mediálneho kolaterálneho väzu) vo štvrtok, s očakávanou dobou zotavenia 12 týždňov"
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "natrhnutie mediálneho kolaterálneho väzu (MCL), ukončujúce sezónu"
+    },
+    {
+      "date": "2026-03-17",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "zranenie dolnej časti tela, mimo hry do konca základnej časti"
+    },
     {
       "date": "2026-03-20",
       "player": "Andrew Mangiapane",
