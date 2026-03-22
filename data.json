@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T14:58:07.425432",
+  "last_updated": "2026-03-22T15:52:26.247920",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,30 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Roztrhnutie mediálneho kolaterálneho väzu (MCL) ukončujúce sezónu. Podstúpil úspešnú operáciu MCL s očakávanou dobou rekonvalescencie 12 týždňov."
+    },
+    {
+      "date": "2026-03-21",
+      "player": "Andrew Mangiapane",
+      "team": "CHI",
+      "injury_type_sk": "Nešpecifikované zranenia."
+    },
+    {
+      "date": "2026-03-21",
+      "player": "Louis Crevier",
+      "team": "CHI",
+      "injury_type_sk": "Nešpecifikované zranenia."
+    },
+    {
+      "date": "2026-03-21",
+      "player": "Anthony Stolarz",
+      "team": "TOR",
+      "injury_type_sk": "Vynechal očakávaný štart po zásahu pukom do krku."
+    },
     {
       "date": "2026-03-21",
       "player": "Auston Matthews",
