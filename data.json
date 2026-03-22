@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T05:11:51.450711",
+  "last_updated": "2026-03-22T07:29:54.588726",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-21",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Podstúpil úspešnú operáciu MCL, očakávaná doba rekonvalescencie 12 týždňov"
+    },
+    {
+      "date": "2026-03-21",
+      "player": "Anthony Stolarz",
+      "team": "TOR",
+      "injury_type_sk": "Zranenie hrdla pukom počas rozcvičky"
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Vyradený minimálne na štyri týždne po nešikovnom údere na Zimných olympijských hrách 2026"
+    },
     {
       "date": "2026-03-21",
       "player": "Andrew Mangiapane",
