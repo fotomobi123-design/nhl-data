@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T10:57:06.149612",
+  "last_updated": "2026-03-22T11:48:25.808172",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,30 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-21",
+      "player": "Andrew Mangiapane",
+      "team": "CHI",
+      "injury_type_sk": "Nešpecifikované zranenie, vyradený z piatkového zápasu."
+    },
+    {
+      "date": "2026-03-21",
+      "player": "Louis Crevier",
+      "team": "CHI",
+      "injury_type_sk": "Nešpecifikované zranenie, vyradený z piatkového zápasu."
+    },
+    {
+      "date": "2026-03-21",
+      "player": "Anthony Stolarz",
+      "team": "TOR",
+      "injury_type_sk": "Zásah pukom do krku počas rozcvičky, vynechal očakávaný štart."
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Roztrhnutie mediálneho kolaterálneho väzu (MCL) ukončujúce sezónu; podstúpil úspešnú operáciu s očakávanou dobou rekonvalescencie 12 týždňov."
+    },
     {
       "date": "2026-03-21",
       "player": "Anthony Stolarz",
