@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T20:56:15.378721",
+  "last_updated": "2026-03-22T21:53:18.594143",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-22",
+      "player": "Anthony Stolarz",
+      "team": "TOR",
+      "injury_type_sk": "Zranenie po zásahu pukom do krku počas rozcvičky."
+    },
+    {
+      "date": "2026-03-22",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Pretrhnutie MCL a úspešná operácia, predpokladaná doba zotavenia 12 týždňov (koniec sezóny)."
+    },
     {
       "date": "2026-03-22",
       "player": "Anthony Stolarz",
