@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T23:51:13.427930",
+  "last_updated": "2026-03-22T05:11:51.450711",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,42 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-21",
+      "player": "Andrew Mangiapane",
+      "team": "CHI",
+      "injury_type_sk": "Nespecifikované zranenie, vynechal piatkový zápas"
+    },
+    {
+      "date": "2026-03-21",
+      "player": "Louis Crevier",
+      "team": "CHI",
+      "injury_type_sk": "Nespecifikované zranenie, vynechal piatkový zápas"
+    },
+    {
+      "date": "2026-03-21",
+      "player": "Anthony Stolarz",
+      "team": "TOR",
+      "injury_type_sk": "Zranenie krku po zásahu pukom počas rozcvičky, vynechal očakávaný štart"
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie po nešťastnom náraze na ZOH 2026, mimo hru minimálne štyri týždne"
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Natrhnutie mediálneho kolaterálneho väzu (MCL), potrebná operácia, očakávaný návrat o 12 týždňov"
+    },
+    {
+      "date": "2026-03-17",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie dolnej časti tela, mimo hru po zvyšok základnej časti"
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
