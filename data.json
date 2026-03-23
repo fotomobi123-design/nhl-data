@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T23:57:31.428226",
+  "last_updated": "2026-03-23T05:49:41.829687",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,30 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-21",
+      "player": "Anthony Stolarz",
+      "team": "TOR",
+      "injury_type_sk": "zásah pukom do krku, vynechal očakávaný štart"
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "zaradený na listinu zranených, mimo hry minimálne štyri týždne"
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "natrhnutie mediálneho kolaterálneho väzu (MCL), ukončenie sezóny"
+    },
+    {
+      "date": "2026-03-17",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "zranenie dolnej časti tela, vyradený do konca základnej časti"
+    },
     {
       "date": "2026-03-22",
       "player": "Anthony Stolarz",
