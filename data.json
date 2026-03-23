@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T14:46:32.293120",
+  "last_updated": "2026-03-23T17:40:11.547868",
   "trades": [
     {
       "date": "2026-03-13",
@@ -2059,6 +2059,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Mimo hry minimálne na štyri týždne po nešťastnom náraze na Zimných olympijských hrách 2026"
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Natrhnutie mediálneho kolaterálneho väzu (MCL), sezóna ukončená"
+    },
     {
       "date": "2026-03-23",
       "player": "Anthony Stolarz",
