@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-03-23T19:59:00.668246",
+  "last_updated": "2026-03-23T21:52:02.377838",
   "trades": [
+    {
+      "date": "2026-03-23",
+      "team1": "STL",
+      "team2": "Sacred Heart",
+      "player_team1_received": "Felix Trudeau",
+      "player_team2_received": "N/A",
+      "description_sk": "St. Louis Blues podpísali dvojročnú vstupnú zmluvu s neoznačeným univerzitným útočníkom Felixom Trudeauom."
+    },
     {
       "date": "2026-03-13",
       "team1": "SJS",
@@ -2059,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-23",
+      "player": "Ryan Winterton",
+      "team": "SEA",
+      "injury_type_sk": "Vzal si dočasnú dovolenku (leave of absence)."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranený počas Zimných olympijských hier 2026, mimo hry minimálne štyri týždne."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
