@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25T16:21:28.852240",
+  "last_updated": "2026-03-25T19:31:00.752729",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-23",
+      "player": "Ryan Winterton",
+      "team": "SEA",
+      "injury_type_sk": "Dočasná dovolenka."
+    },
+    {
+      "date": "2026-02-26",
+      "player": "Sidney Crosby",
+      "team": "N/A",
+      "injury_type_sk": "Zranenie utrpené na olympijských hrách, vynechá minimálne štyri týždne."
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Natrhnutie postranného väzu (MCL), ukončenie sezóny."
+    },
     {
       "date": "2026-02-26",
       "player": "Sidney Crosby",
