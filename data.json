@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25T10:35:11.641597",
+  "last_updated": "2026-03-25T12:07:42.025497",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-25",
+      "player": "Ryan Winterton",
+      "team": "Kraken",
+      "injury_type_sk": "Dočasne si berie voľno (leave of absence)."
+    },
+    {
+      "date": "2026-02-25",
+      "player": "Sidney Crosby",
+      "team": "Penguins",
+      "injury_type_sk": "Zranenie po nepríjemnom údere na zimných olympijských hrách 2026, vyradený minimálne na štyri týždne. Umiestnený na listinu zranených (IR)."
+    },
     {
       "date": "2026-02-25",
       "player": "Sidney Crosby",
