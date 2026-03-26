@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T05:53:58.425032",
+  "last_updated": "2026-03-26T08:37:49.793095",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-02-26",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie na olympiáde, mimo hry minimálne štyri týždne"
+    },
     {
       "date": "2026-02-26",
       "player": "Sidney Crosby",
