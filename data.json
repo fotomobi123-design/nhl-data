@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T19:41:30.820371",
+  "last_updated": "2026-03-26T21:05:26.044421",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-26",
+      "player": "Victor Hedman",
+      "team": "TBL",
+      "injury_type_sk": "Dočasná neprítomnosť z osobných dôvodov. Predpokladaný návrat: neurčený."
+    },
+    {
+      "date": "2026-03-26",
+      "player": "Thomas Chabot",
+      "team": "OTT",
+      "injury_type_sk": "Zlomená ruka, môže chýbať 2 mesiace."
+    },
+    {
+      "date": "2026-02-26",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie počas olympijských hier, vyradený minimálne na štyri týždne."
+    },
     {
       "date": "2026-03-26",
       "player": "Thomas Chabot",
