@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T21:52:15.590157",
+  "last_updated": "2026-03-27T23:05:56.694148",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-27",
+      "player": "Thomas Chabot",
+      "team": "OTT",
+      "injury_type_sk": "Zlomená ruka, mimo hry až na dva mesiace."
+    },
+    {
+      "date": "2026-03-27",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie dolnej časti tela, opustil zápas. Len týždeň po návrate zo zranenia utrpeného na olympiáde."
+    },
     {
       "date": "2026-03-27",
       "player": "Thomas Chabot",
