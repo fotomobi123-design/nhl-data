@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T23:05:56.694148",
+  "last_updated": "2026-03-27T23:59:19.634476",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-27",
+      "player": "Victor Hedman",
+      "team": "TBL",
+      "injury_type_sk": "Dočasné voľno z osobných dôvodov."
+    },
+    {
+      "date": "2026-03-27",
+      "player": "Thomas Chabot",
+      "team": "OTT",
+      "injury_type_sk": "Zlomená ruka, mohol by chýbať až dva mesiace."
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Natrhnutie mediálneho postranného väzu (MCL), vyradený do konca sezóny."
+    },
     {
       "date": "2026-03-27",
       "player": "Thomas Chabot",
