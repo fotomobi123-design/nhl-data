@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T14:34:29.258735",
+  "last_updated": "2026-03-27T17:38:39.051565",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,30 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-27",
+      "player": "Evan Rodrigues",
+      "team": "FLA",
+      "injury_type_sk": "Zlomený prst na pravej ruke, pravdepodobne vyradený do konca sezóny."
+    },
+    {
+      "date": "2026-03-27",
+      "player": "Thomas Chabot",
+      "team": "OTT",
+      "injury_type_sk": "Zlomená ruka, vyradený až na dva mesiace."
+    },
+    {
+      "date": "2026-03-27",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie dolnej časti tela (týždeň po návrate z predošlého zranenia na olympiáde)."
+    },
+    {
+      "date": "2026-02-26",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (na olympiáde), vyradený minimálne na štyri týždne."
+    },
     {
       "date": "2026-03-27",
       "player": "Evan Rodrigues",
