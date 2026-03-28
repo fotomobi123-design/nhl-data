@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T14:04:08.532644",
+  "last_updated": "2026-03-28T15:05:27.293273",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-28",
+      "player": "Evan Rodrigues",
+      "team": "FLA",
+      "injury_type_sk": "Zlomený prst na pravej ruke, pravdepodobne mimo hru do konca sezóny."
+    },
+    {
+      "date": "2026-03-28",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie dolnej časti tela, len týždeň po návrate zo zranenia utrpeného na olympiáde."
+    },
+    {
+      "date": "2026-03-17",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie dolnej časti tela, mimo hru do konca základnej časti sezóny."
+    },
     {
       "date": "2026-03-14",
       "player": "Auston Matthews",
