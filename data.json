@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T19:25:13.900873",
+  "last_updated": "2026-03-28T20:03:21.126491",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-26",
+      "player": "Evan Rodrigues",
+      "team": "FLA",
+      "injury_type_sk": "Zlomený prst na pravej ruke, pravdepodobne mimo hry do konca sezóny"
+    },
+    {
+      "date": "2026-03-28",
+      "player": "Evgeni Malkin",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (stav posudzovaný deň-to-deň), nebude hrať v sobotu"
+    },
+    {
+      "date": "2026-03-28",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (stav posudzovaný deň-to-deň), nebude hrať v sobotu"
+    },
     {
       "date": "2026-03-26",
       "player": "Sidney Crosby",
