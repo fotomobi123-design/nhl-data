@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T11:06:45.384769",
+  "last_updated": "2026-03-29T11:58:26.390882",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,42 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-25",
+      "player": "Victor Hedman",
+      "team": "TBL",
+      "injury_type_sk": "dočasná dovolenka z osobných dôvodov"
+    },
+    {
+      "date": "2026-03-26",
+      "player": "Evan Rodrigues",
+      "team": "FLA",
+      "injury_type_sk": "zlomený prst na pravej ruke, pravdepodobne mimo zostavy do konca sezóny"
+    },
+    {
+      "date": "2026-03-26",
+      "player": "Thomas Chabot",
+      "team": "OTT",
+      "injury_type_sk": "zlomená ruka, mimo hry až dva mesiace"
+    },
+    {
+      "date": "2026-03-28",
+      "player": "Evgeni Malkin",
+      "team": "PIT",
+      "injury_type_sk": "zranenie (stav: day-to-day), nehral v sobotňajšej prehre"
+    },
+    {
+      "date": "2026-03-28",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "zranenie (stav: day-to-day), nehral v sobotňajšej prehre"
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "natrhnutie mediálneho postranného väzu (MCL), koniec sezóny"
+    },
     {
       "date": "2026-03-26",
       "player": "Evan Rodrigues",
