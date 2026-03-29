@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T18:03:48.552452",
+  "last_updated": "2026-03-29T19:49:51.724238",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-29",
+      "player": "Evgeni Malkin",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (stav monitorovaný denne), nehral"
+    },
+    {
+      "date": "2026-03-29",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie (stav monitorovaný denne), nehral"
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Pretrhnutie mediálneho kolaterálneho väzu (MCL), ukončenie sezóny"
+    },
     {
       "date": "2026-03-29",
       "player": "Evan Rodrigues",
