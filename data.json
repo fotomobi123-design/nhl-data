@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T19:49:51.724238",
+  "last_updated": "2026-03-29T21:02:42.430016",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-28",
+      "player": "Evgeni Malkin",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie, stav deň-po-dni (nespecifikované zranenie)."
+    },
+    {
+      "date": "2026-03-28",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie, stav deň-po-dni (nespecifikované zranenie)."
+    },
     {
       "date": "2026-03-29",
       "player": "Evgeni Malkin",
