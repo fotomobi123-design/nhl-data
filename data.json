@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T00:05:23.468847",
+  "last_updated": "2026-03-30T06:26:38.746001",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-29",
+      "player": "Thomas Chabot",
+      "team": "OTT",
+      "injury_type_sk": "Zlomená ruka, vyradený až na dva mesiace"
+    },
+    {
+      "date": "2026-03-29",
+      "player": "Evgeni Malkin",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie, stav posudzovaný zo dňa na deň, nehral"
+    },
+    {
+      "date": "2026-03-29",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie, stav posudzovaný zo dňa na deň, nehral"
+    },
     {
       "date": "2026-03-29",
       "player": "Evgeni Malkin",
