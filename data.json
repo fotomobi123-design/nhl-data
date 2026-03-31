@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T19:37:18.376257",
+  "last_updated": "2026-03-31T21:57:25.675652",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-31",
+      "player": "Sidney Crosby",
+      "team": "PIT",
+      "injury_type_sk": "Zranenie dolnej časti tela (vrátil sa do hry)"
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Roztrhnutie MCL, sezóna ukončená"
+    },
     {
       "date": "2026-03-31",
       "player": "Sidney Crosby",
