@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T10:15:59.177200",
+  "last_updated": "2026-04-01T14:52:09.702665",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-01",
+      "player": "Cale Makar",
+      "team": "COL",
+      "injury_type_sk": "Zranenie hornej časti tela, vynechá niekoľko zápasov."
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Natrhnutie postranného väzu (MCL), sezóna sa pre neho skončila."
+    },
     {
       "date": "2026-03-31",
       "player": "Sam Carrick",
