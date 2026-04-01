@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T06:12:46.853995",
+  "last_updated": "2026-04-01T10:15:59.177200",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-31",
+      "player": "Sam Carrick",
+      "team": "BUF",
+      "injury_type_sk": "Zranenie ľavej ruky počas bitky."
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Natrhnutie MCL (mediálneho postranného väzu), vyradený do konca sezóny."
+    },
     {
       "date": "2026-03-31",
       "player": "Sam Carrick",
