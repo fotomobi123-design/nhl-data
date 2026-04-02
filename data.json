@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T05:51:45.408214",
+  "last_updated": "2026-04-02T09:39:47.491681",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-02",
+      "player": "Cale Makar",
+      "team": "COL",
+      "injury_type_sk": "Zranenie hornej časti tela, vynechá 'niekoľko zápasov'."
+    },
     {
       "date": "2026-03-14",
       "player": "Auston Matthews",
