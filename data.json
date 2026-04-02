@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T18:10:57.656877",
+  "last_updated": "2026-04-02T20:05:13.323448",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Natrhnutie MCL (mediálneho kolaterálneho väzu), koniec sezóny"
+    },
     {
       "date": "2026-04-02",
       "player": "Cale Makar",
