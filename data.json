@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T21:56:43.557832",
+  "last_updated": "2026-04-03T23:05:49.484242",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,30 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-03",
+      "player": "Carter Knight",
+      "team": "VGK",
+      "injury_type_sk": "Zranenie ľavej nohy (utrpené 8. januára); aktivovaný z listiny zranených."
+    },
+    {
+      "date": "2026-04-03",
+      "player": "Damon Severson",
+      "team": "CBJ",
+      "injury_type_sk": "Operácia ramena; vyradený do konca sezóny."
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Natrhnutie mediálneho kolaterálneho väzu (MCL); sezónu ukončujúce zranenie po 'špinavom' zákroku."
+    },
+    {
+      "date": "2026-03-17",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie dolnej časti tela; vyradený do konca základnej časti."
+    },
     {
       "date": "2026-04-03",
       "player": "Carter Knight",
