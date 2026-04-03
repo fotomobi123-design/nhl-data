@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T16:05:16.723470",
+  "last_updated": "2026-04-03T18:04:17.232049",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-03",
+      "player": "Cale Makar",
+      "team": "COL",
+      "injury_type_sk": "Zranenie hornej časti tela, vyradený na niekoľko zápasov."
+    },
+    {
+      "date": "2026-04-03",
+      "player": "Damon Severson",
+      "team": "CBJ",
+      "injury_type_sk": "Operácia ramena, vyradený do konca sezóny."
+    },
     {
       "date": "2026-04-03",
       "player": "Carter Hart",
