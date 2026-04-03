@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T11:25:37.816767",
+  "last_updated": "2026-04-03T14:09:13.529025",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-03",
+      "player": "Carter Knight",
+      "team": "VGK",
+      "injury_type_sk": "Zranenie ľavej nohy, aktivovaný z listiny zranených (IR). Prvý štart od zranenia 8. januára."
+    },
     {
       "date": "2026-04-03",
       "player": "Carter Hart",
