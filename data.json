@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T20:02:25.490280",
+  "last_updated": "2026-04-03T21:56:43.557832",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-03",
+      "player": "Carter Knight",
+      "team": "VGK",
+      "injury_type_sk": "Zranenie ľavej nohy; návrat z listiny zranených (bol na IR od 8. januára)."
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Natrhnutie mediálneho postranného väzu (MCL); ukončenie sezóny."
+    },
+    {
+      "date": "2026-03-17",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie dolnej časti tela; vynechá zvyšok základnej časti."
+    },
     {
       "date": "2026-04-03",
       "player": "Carter Hart",
