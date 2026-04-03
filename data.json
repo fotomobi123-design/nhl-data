@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T08:36:05.339117",
+  "last_updated": "2026-04-03T11:25:37.816767",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-03",
+      "player": "Carter Hart",
+      "team": "VGK",
+      "injury_type_sk": "Zranenie ľavej nohy (8. januára), aktivovaný z listiny zranených (IR)."
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Pretrhnutie MCL ukončujúce sezónu."
+    },
     {
       "date": "2026-04-03",
       "player": "Cale Makar",
