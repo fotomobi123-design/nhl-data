@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T05:55:53.408903",
+  "last_updated": "2026-04-03T08:36:05.339117",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-03",
+      "player": "Cale Makar",
+      "team": "COL",
+      "injury_type_sk": "Zranenie hornej časti tela, vynechá „niekoľko zápasov“."
+    },
+    {
+      "date": "2026-04-03",
+      "player": "Carter Hart",
+      "team": "VGK",
+      "injury_type_sk": "Zranenie ľavej nohy (od 8. januára), vrátil sa z IR a zastavil 19 striel."
+    },
     {
       "date": "2026-03-14",
       "player": "Auston Matthews",
