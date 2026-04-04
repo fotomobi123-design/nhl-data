@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T12:02:19.248211",
+  "last_updated": "2026-04-04T14:07:37.639165",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-04",
+      "player": "Carter Knight",
+      "team": "VGK",
+      "injury_type_sk": "Návrat zo zoznamu zranených (IR), prvý štart od zranenia ľavej nohy 8. januára."
+    },
+    {
+      "date": "2026-04-04",
+      "player": "Damon Severson",
+      "team": "CBJ",
+      "injury_type_sk": "Operácia ramena, ukončenie sezóny."
+    },
     {
       "date": "2026-04-03",
       "player": "Carter Hart",
