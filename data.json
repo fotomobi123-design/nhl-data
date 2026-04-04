@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T11:04:02.429331",
+  "last_updated": "2026-04-04T12:02:19.248211",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-03",
+      "player": "Carter Hart",
+      "team": "VGK",
+      "injury_type_sk": "Zranenie ľavej nohy (utrpené 8. januára), aktivovaný z listiny zranených a vrátil sa do hry."
+    },
+    {
+      "date": "2026-04-03",
+      "player": "Damon Severson",
+      "team": "CBJ",
+      "injury_type_sk": "Sezónu ukončujúca operácia ramena."
+    },
     {
       "date": "2026-03-14",
       "player": "Auston Matthews",
