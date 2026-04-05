@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T13:52:17.208743",
+  "last_updated": "2026-04-05T14:31:11.973140",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-04",
+      "player": "Carter Hart",
+      "team": "VGK",
+      "injury_type_sk": "Zranenie ľavej nohy (nastalo 8. januára), vrátil sa zo zoznamu zranených."
+    },
     {
       "date": "2026-04-04",
       "player": "Carter Knight",
