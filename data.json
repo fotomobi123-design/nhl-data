@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T11:51:58.129357",
+  "last_updated": "2026-04-05T12:44:19.814579",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-04",
+      "player": "Carter Hart",
+      "team": "VGK",
+      "injury_type_sk": "Zranenie ľavej nohy (nastalo 8. januára 2026). Návrat do hry."
+    },
     {
       "date": "2026-01-08",
       "player": "Carter Hart",
