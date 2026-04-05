@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T17:03:36.004821",
+  "last_updated": "2026-04-05T17:55:35.876068",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Roztrhnutie MCL (mediálneho kolaterálneho väzu), vyradený do konca sezóny po 'špinavom' zákroku od Radka Gudasa"
+    },
     {
       "date": "2026-04-02",
       "player": "Damon Severson",
