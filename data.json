@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T22:25:17.968813",
+  "last_updated": "2026-04-05T22:58:50.408051",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-05",
+      "player": "Damon Severson",
+      "team": "CBJ",
+      "injury_type_sk": "Operácia ramena, ukončil sezónu."
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Natrhnutie mediálneho kolaterálneho väzu (MCL), ukončil sezónu."
+    },
     {
       "date": "2026-04-05",
       "player": "Damon Severson",
