@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T09:34:25.096974",
+  "last_updated": "2026-04-05T10:28:24.876520",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-04",
+      "player": "Damon Severson",
+      "team": "CBJ",
+      "injury_type_sk": "Zmešká zvyšok sezóny po operácii ramena."
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Utrpel zranenie MCL ukončujúce sezónu."
+    },
+    {
+      "date": "2026-03-17",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Mimo zvyšok základnej časti pre zranenie dolnej časti tela."
+    },
     {
       "date": "2026-04-04",
       "player": "Carter Hart",
