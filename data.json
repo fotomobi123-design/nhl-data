@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T05:51:55.128456",
+  "last_updated": "2026-04-05T06:59:15.032495",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-04",
+      "player": "Carter Hart",
+      "team": "VGK",
+      "injury_type_sk": "Zranenie ľavej nohy (utrpel 8. januára), vrátil sa do hry."
+    },
     {
       "date": "2026-04-04",
       "player": "Damon Severson",
