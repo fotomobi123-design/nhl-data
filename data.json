@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T16:30:19.378971",
+  "last_updated": "2026-04-05T17:03:36.004821",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-02",
+      "player": "Damon Severson",
+      "team": "CBJ",
+      "injury_type_sk": "Operácia ramena, koniec sezóny"
+    },
+    {
+      "date": "2026-03-14",
+      "player": "Auston Matthews",
+      "team": "TOR",
+      "injury_type_sk": "Pretrhnutie MCL, koniec sezóny"
+    },
     {
       "date": "2026-01-08",
       "player": "Carter Hart",
