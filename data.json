@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T23:32:51.642230",
+  "last_updated": "2026-04-08T01:56:07.952021",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-07",
+      "player": "Pontus Holmberg",
+      "team": "TBL",
+      "injury_type_sk": "Zranenie ľavej ruky po náraze ramenom do nezaistených dverí trestnej lavice"
+    },
     {
       "date": "2026-04-07",
       "player": "Pontus Holmberg",
