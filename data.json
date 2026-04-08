@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T23:06:45.776288",
+  "last_updated": "2026-04-08T23:58:04.603373",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-06",
+      "player": "Pontus Holmberg",
+      "team": "TBL",
+      "injury_type_sk": "Zranenie ľavej ruky po náraze do nezaistenej dverí trestnej lavice"
+    },
+    {
+      "date": "2026-03-17",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie dolnej časti tela, mimo hry do konca základnej sezóny"
+    },
     {
       "date": "2026-04-06",
       "player": "Pontus Holmberg",
