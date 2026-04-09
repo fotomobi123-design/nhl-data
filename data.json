@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T23:06:06.543917",
+  "last_updated": "2026-04-09T23:59:38.104783",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,36 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-09",
+      "player": "Jalen Chatfield",
+      "team": "CAR",
+      "injury_type_sk": "Zranenie dolnej časti tela, vyradený z hry."
+    },
+    {
+      "date": "2026-04-09",
+      "player": "Luke Hughes",
+      "team": "NJD",
+      "injury_type_sk": "Podstúpi procedúru (typ nešpecifikovaný), vyradený z hry."
+    },
+    {
+      "date": "2026-04-09",
+      "player": "Nazem Kadri",
+      "team": "COL",
+      "injury_type_sk": "Zranenie prsta, vynechá \"niekoľko zápasov\"."
+    },
+    {
+      "date": "2026-04-09",
+      "player": "Alex Lyon",
+      "team": "BUF",
+      "injury_type_sk": "Natiahnutý sval v dolnej časti tela, môže vynechať začiatok play-off."
+    },
+    {
+      "date": "2026-03-19",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie, ktoré ovplyvňuje šance tímu v play-off."
+    },
     {
       "date": "2026-04-09",
       "player": "Luke Hughes",
