@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T22:02:53.201555",
+  "last_updated": "2026-04-09T23:06:06.543917",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,36 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-09",
+      "player": "Luke Hughes",
+      "team": "NJD",
+      "injury_type_sk": "Podstúpi zákrok (ukončuje sezónu)."
+    },
+    {
+      "date": "2026-04-09",
+      "player": "Thomas Chabot",
+      "team": "OTT",
+      "injury_type_sk": "Zlomená ruka (návrat do zostavy po 2,5 týždňoch)."
+    },
+    {
+      "date": "2026-04-09",
+      "player": "Alex Lyon",
+      "team": "BUF",
+      "injury_type_sk": "Natiahnutý sval v dolnej časti tela, hrozí vynechanie začiatku play-off."
+    },
+    {
+      "date": "2026-04-09",
+      "player": "Nazem Kadri",
+      "team": "COL",
+      "injury_type_sk": "Zranenie prsta, vynechá niekoľko zápasov."
+    },
+    {
+      "date": "2026-03-19",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie, ktoré ohrozuje šance v play-off."
+    },
     {
       "date": "2026-04-09",
       "player": "Luke Hughes",
