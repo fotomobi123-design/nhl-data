@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T13:53:58.592179",
+  "last_updated": "2026-04-10T14:43:49.525713",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-19",
+      "player": "Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie (ktoré poškodzuje šance v play-off)"
+    },
     {
       "date": "2026-04-10",
       "player": "Alex Lyon",
