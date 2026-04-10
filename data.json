@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T12:04:38.850964",
+  "last_updated": "2026-04-10T13:53:58.592179",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-10",
+      "player": "Alex Lyon",
+      "team": "BUF",
+      "injury_type_sk": "Natiahnutý sval v dolnej časti tela, pravdepodobne vynechá začiatok play-off."
+    },
+    {
+      "date": "2026-03-19",
+      "player": "Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie, ktoré ohrozuje šance na play-off."
+    },
     {
       "date": "2026-03-19",
       "player": "Draisaitl",
