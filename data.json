@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T05:57:08.484940",
+  "last_updated": "2026-04-11T06:59:52.874523",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-19",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie (bližšie nešpecifikované), ktoré ohrozuje šance Oilers v play-off."
+    },
     {
       "date": "2026-03-19",
       "player": "Leon Draisaitl",
