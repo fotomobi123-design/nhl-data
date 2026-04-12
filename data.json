@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T09:52:33.018252",
+  "last_updated": "2026-04-12T10:34:05.137667",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-12",
+      "player": "Frank Nazar",
+      "team": "CHI",
+      "injury_type_sk": "Zranenie tváre (po údere puku)."
+    },
+    {
+      "date": "2026-03-19",
+      "player": "Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Nespecifikované zranenie, ktoré ovplyvňuje šance tímu na play-off."
+    },
     {
       "date": "2026-03-19",
       "player": "Leon Draisaitl",
