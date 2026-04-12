@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T05:10:09.188553",
+  "last_updated": "2026-04-12T06:52:04.426094",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-12",
+      "player": "Frank Nazar",
+      "team": "CHI",
+      "injury_type_sk": "Zásah pukom do tváre"
+    },
+    {
+      "date": "2026-03-19",
+      "player": "Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Nezhodnotené zranenie, ktoré ovplyvňuje šance na play-off"
+    },
     {
       "date": "2026-04-12",
       "player": "Frank Nazar",
