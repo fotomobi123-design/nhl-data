@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T21:59:17.996584",
+  "last_updated": "2026-04-12T22:40:27.752453",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-12",
+      "player": "Frank Nazar",
+      "team": "CHI",
+      "injury_type_sk": "Odišiel po zásahu pukom do tváre"
+    },
+    {
+      "date": "2026-04-12",
+      "player": "Jared Bednar",
+      "team": "COL",
+      "injury_type_sk": "Zlomeniny tváre, mimo do play-off"
+    },
     {
       "date": "2026-04-12",
       "player": "Frank Nazar",
