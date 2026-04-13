@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T00:02:05.885068",
+  "last_updated": "2026-04-13T03:57:10.939611",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-03-19",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie ohrozuje šance na play-off"
+    },
     {
       "date": "2026-04-12",
       "player": "Frank Nazar",
