@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T13:14:57.894995",
+  "last_updated": "2026-04-14T14:59:23.168279",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-14",
+      "player": "Frank Nazar",
+      "team": "CHI",
+      "injury_type_sk": "Strata dvoch predných horných zubov po zásahu pukom. Na pondelkovom zápase nastúpil s ochrannou mriežkou."
+    },
     {
       "date": "2026-04-14",
       "player": "Frank Nazar",
