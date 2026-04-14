@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T09:00:56.026523",
+  "last_updated": "2026-04-14T10:19:39.268984",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-14",
+      "player": "Frank Nazar",
+      "team": "CHI",
+      "injury_type_sk": "Stratené dva predné horné zuby po zásahu pukom"
+    },
     {
       "date": "2026-04-13",
       "player": "Jared McCann",
