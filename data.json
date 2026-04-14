@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T02:01:41.435811",
+  "last_updated": "2026-04-14T05:09:08.618470",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,24 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-13",
+      "player": "Jared McCann",
+      "team": "SEA",
+      "injury_type_sk": "Zranenie dolnej časti tela, vynechá posledné tri zápasy základnej časti."
+    },
+    {
+      "date": "2026-04-13",
+      "player": "Frank Nazar",
+      "team": "CHI",
+      "injury_type_sk": "Stratil dva predné zuby po zásahu pukom, nosí ochrannú klietku."
+    },
+    {
+      "date": "2026-03-19",
+      "player": "Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie Draisaitla ohrozuje šance na play-off."
+    },
     {
       "date": "2026-04-13",
       "player": "Jared McCann",
