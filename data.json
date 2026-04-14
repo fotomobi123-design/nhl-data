@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T16:11:53.543810",
+  "last_updated": "2026-04-14T17:41:17.677720",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-14",
+      "player": "Frank Nazar",
+      "team": "CHI",
+      "injury_type_sk": "Stratil dva horné predné zuby po zásahu pukom (vrátil sa na ľad v ochrannom koši)"
+    },
+    {
+      "date": "2026-03-19",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Nespecifikované zranenie, ktoré ohrozuje šance tímu na play-off (predpokladaný návrat nešpecifikovaný)"
+    },
     {
       "date": "2026-04-14",
       "player": "Frank Nazar",
