@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T20:42:26.461845",
+  "last_updated": "2026-04-16T21:38:08.858547",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-16",
+      "player": "Aleksander Barkov",
+      "team": "FLA",
+      "injury_type_sk": "Roztrhnutý ACL a MCL v pravom kolene. Vynechal celú sezónu NHL. Očakáva sa, že bude hrať na Majstrovstvách sveta vo Fínsku v máji."
+    },
     {
       "date": "2026-04-16",
       "player": "Aleksander Barkov",
