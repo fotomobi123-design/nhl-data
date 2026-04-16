@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T19:43:22.365900",
+  "last_updated": "2026-04-16T20:42:26.461845",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-16",
+      "player": "Aleksander Barkov",
+      "team": "FLA",
+      "injury_type_sk": "Roztrhnutý predný skrížený a vnútorný postranný väz v pravom kolene, zotavený, očakávaný návrat do hry v máji (hráč vynechal celú sezónu NHL)"
+    },
     {
       "date": "2026-04-16",
       "player": "Aleksander Barkov",
