@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T10:44:22.225279",
+  "last_updated": "2026-04-16T11:55:57.945844",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-16",
+      "player": "Roope Hintz",
+      "team": "DAL",
+      "injury_type_sk": "Zranenie dolnej časti tela, vynechá začiatok play-off kvôli komplikácii v zotavovaní."
+    },
     {
       "date": "2026-04-15",
       "player": "Roope Hintz",
