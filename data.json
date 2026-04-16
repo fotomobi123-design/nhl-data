@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T18:05:11.061823",
+  "last_updated": "2026-04-16T19:43:22.365900",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-16",
+      "player": "Aleksander Barkov",
+      "team": "FLA",
+      "injury_type_sk": "Natrhnuté predné skrížené väzy (ACL) a mediálne postranné väzy (MCL) v pravom kolene. Vynechal celú sezónu NHL, vráti sa na Majstrovstvách sveta v máji."
+    },
     {
       "date": "2026-04-16",
       "player": "Roope Hintz",
