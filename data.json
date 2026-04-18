@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T14:01:05.251292",
+  "last_updated": "2026-04-18T15:04:30.615639",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-17",
+      "player": "Vincent Trocheck",
+      "team": "NYR",
+      "injury_type_sk": "Bakteriálna infekcia pľúc vyžadujúca operáciu. Chýbal mesiac."
+    },
     {
       "date": "2026-04-17",
       "player": "Vincent Trocheck",
