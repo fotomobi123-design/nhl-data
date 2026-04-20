@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T20:55:24.555370",
+  "last_updated": "2026-04-20T21:41:42.077025",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-20",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie dolnej časti tela, očakávaný návrat na 1. zápas play-off"
+    },
     {
       "date": "2026-04-20",
       "player": "Logan O'Connor",
