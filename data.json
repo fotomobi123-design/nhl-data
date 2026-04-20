@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T11:53:21.671267",
+  "last_updated": "2026-04-20T13:19:11.779151",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-20",
+      "player": "Logan O'Connor",
+      "team": "COL",
+      "injury_type_sk": "Nešpecifikované zranenie, návrat po takmer ročnej absencii"
+    },
     {
       "date": "2026-04-19",
       "player": "Vincent Trocheck",
