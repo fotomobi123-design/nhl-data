@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T22:06:21.273870",
+  "last_updated": "2026-04-21T23:04:55.874477",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-21",
+      "player": "Roope Hintz",
+      "team": "DAL",
+      "injury_type_sk": "Zranený. Zostáva doma a necestuje s tímom na zápasy 3 a 4."
+    },
     {
       "date": "2026-04-20",
       "player": "Leon Draisaitl",
