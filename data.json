@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T02:03:38.680322",
+  "last_updated": "2026-04-21T05:13:00.253180",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-21",
+      "player": "Leon Draisaitl",
+      "team": "EDM",
+      "injury_type_sk": "Zranenie dolnej časti tela; vrátený na 1. zápas play-off po aktivácii z listiny zranených."
+    },
     {
       "date": "2026-04-20",
       "player": "Leon Draisaitl",
