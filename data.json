@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T10:46:36.157652",
+  "last_updated": "2026-04-22T11:56:54.322098",
   "trades": [
     {
       "date": "2026-03-23",
@@ -2067,6 +2067,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-04-22",
+      "player": "Roope Hintz",
+      "team": "DAL",
+      "injury_type_sk": "Neznámy typ zranenia, necestoval s tímom (nepredpokladaný návrat)"
+    },
     {
       "date": "2026-04-22",
       "player": "Roope Hintz",
