@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-04-27T21:32:53.211341",
+  "last_updated": "2026-04-27T22:44:25.147833",
   "trades": [
+    {
+      "date": "2026-04-26",
+      "team1": "OTT",
+      "team2": "Neznáme (špekulácie)",
+      "player_team1_received": "",
+      "player_team2_received": "Brady Tkachuk",
+      "description_sk": "Špekulácie o výmene Bradyho Tkachuka, kapitána tímu Senators. Blackhawks (CHI) a Panthers (FLA) sú medzi piatimi potenciálnymi destináciami, ak by bol Tkachuk toto leto dostupný na trhu."
+    },
     {
       "date": "2026-03-23",
       "team1": "STL",
