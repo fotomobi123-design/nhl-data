@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T18:35:16.846146",
+  "last_updated": "2026-05-24T20:01:13.606084",
   "trades": [
     {
       "date": "2026-04-26",
@@ -2075,6 +2075,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-05-22",
+      "player": "Cale Makar",
+      "team": "COL",
+      "injury_type_sk": "Bližšie nešpecifikované zranenie, ktorého stav je kľúčový pre Colorado."
+    },
     {
       "date": "2026-05-22",
       "player": "Cale Makar",
