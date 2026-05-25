@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T21:43:03.582871",
+  "last_updated": "2026-05-25T22:54:45.467465",
   "trades": [
     {
       "date": "2026-04-26",
@@ -2075,6 +2075,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-05-22",
+      "player": "Cale Makar",
+      "team": "COL",
+      "injury_type_sk": "Nešpecifikované zranenie (predpokladaný návrat: neurčený)"
+    },
     {
       "date": "2026-05-22",
       "player": "Cale Makar",
