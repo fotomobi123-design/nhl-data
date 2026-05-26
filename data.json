@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T04:41:14.242049",
+  "last_updated": "2026-05-26T08:28:44.239457",
   "trades": [
     {
       "date": "2026-04-26",
@@ -2075,6 +2075,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-05-22",
+      "player": "Cale Makar",
+      "team": "COL",
+      "injury_type_sk": "Zranenie (presný typ nešpecifikovaný), jeho stav je dôležitý pre tím Colorado Avalanche."
+    },
     {
       "date": "2026-05-22",
       "player": "Cale Makar",
