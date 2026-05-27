@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T23:37:55.288049",
+  "last_updated": "2026-05-27T02:50:43.219886",
   "trades": [
     {
       "date": "2026-04-26",
@@ -2075,6 +2075,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-05-22",
+      "player": "Cale Makar",
+      "team": "COL",
+      "injury_type_sk": "Neistý stav zranenia (Makarin stav zranenia je kľúčový)"
+    },
+    {
+      "date": "2026-05-26",
+      "player": "Nathan MacKinnon",
+      "team": "COL",
+      "injury_type_sk": "Neistá účasť/zdravotný stav (MacKinnon je otázny)"
+    },
     {
       "date": "2026-05-22",
       "player": "Cale Makar",
