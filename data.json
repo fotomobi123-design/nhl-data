@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T23:43:11.073665",
+  "last_updated": "2026-05-28T02:38:26.515902",
   "trades": [
     {
       "date": "2026-04-26",
@@ -2075,6 +2075,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-05-22",
+      "player": "Cale Makar",
+      "team": "COL",
+      "injury_type_sk": "Stav zranenia Calea Makara je kľúčový pre tím. Typ zranenia a predpokladaný návrat neboli špecifikované."
+    },
+    {
+      "date": "2026-05-26",
+      "player": "Nathan MacKinnon",
+      "team": "COL",
+      "injury_type_sk": "Otázna účasť na zápas 4 pre nešpecifikovaný zdravotný problém. Predpokladaný návrat nebol uvedený."
+    },
     {
       "date": "2026-05-26",
       "player": "Nathan MacKinnon",
