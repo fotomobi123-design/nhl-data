@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T12:10:58.373187",
+  "last_updated": "2026-05-29T16:12:25.963054",
   "trades": [
     {
       "date": "2026-04-26",
@@ -2075,6 +2075,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-05-26",
+      "player": "Nathan MacKinnon",
+      "team": "COL",
+      "injury_type_sk": "Otázny štart kvôli zraneniu/nešpecifikovanému problému."
+    },
     {
       "date": "2026-05-22",
       "player": "Cale Makar",
