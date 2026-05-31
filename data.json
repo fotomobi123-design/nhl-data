@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T16:17:37.950745",
+  "last_updated": "2026-05-31T17:36:00.514582",
   "trades": [
     {
       "date": "2026-04-26",
@@ -2075,6 +2075,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-05-22",
+      "player": "Cale Makar",
+      "team": "COL",
+      "injury_type_sk": "Neznámy typ zranenia; stav dostupnosti je kľúčový pre Game 2."
+    },
+    {
+      "date": "2026-05-26",
+      "player": "Nathan MacKinnon",
+      "team": "COL",
+      "injury_type_sk": "Neznámy typ zranenia; dostupnosť je otázna pre Game 4."
+    },
     {
       "date": "2026-05-22",
       "player": "Cale Makar",
