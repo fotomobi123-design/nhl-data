@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T13:55:49.780861",
+  "last_updated": "2026-06-02T18:02:14.792556",
   "trades": [
     {
       "date": "2026-04-26",
@@ -2075,6 +2075,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-05-26",
+      "player": "Nathan MacKinnon",
+      "team": "COL",
+      "injury_type_sk": "Stav otázny"
+    },
+    {
+      "date": "2026-05-29",
+      "player": "Claude Lemieux",
+      "team": "",
+      "injury_type_sk": "Smrť samovraždou"
+    },
     {
       "date": "2026-05-26",
       "player": "Nathan MacKinnon",
