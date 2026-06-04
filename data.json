@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T21:10:24.404690",
+  "last_updated": "2026-06-04T22:52:13.477825",
   "trades": [
     {
       "date": "2026-04-26",
@@ -2075,6 +2075,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-05-26",
+      "player": "MacKinnon",
+      "team": "COL",
+      "injury_type_sk": "Neistá dostupnosť"
+    },
     {
       "date": "2026-05-26",
       "player": "MacKinnon",
