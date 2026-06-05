@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T00:01:22.252629",
+  "last_updated": "2026-06-05T04:54:21.639050",
   "trades": [
     {
       "date": "2026-04-26",
@@ -2075,6 +2075,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-05-26",
+      "player": "Nathan MacKinnon",
+      "team": "COL",
+      "injury_type_sk": "Jeho účasť na zápase je otázna."
+    },
     {
       "date": "2026-05-26",
       "player": "MacKinnon",
