@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T15:37:40.757681",
+  "last_updated": "2026-06-08T18:21:44.786850",
   "trades": [
     {
       "date": "2026-04-26",
@@ -2075,6 +2075,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-05-29",
+      "player": "Claude Lemieux",
+      "team": "N/A",
+      "injury_type_sk": "Zomrel samovraždou"
+    },
     {
       "date": "2026-05-29",
       "player": "Claude Lemieux",
