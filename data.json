@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-20T20:48:37.645756",
+  "last_updated": "2026-06-20T22:01:55.321251",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "TOR",
+      "team2": "",
+      "player_team1_received": "Darren Raddysh",
+      "player_team2_received": "",
+      "description_sk": "Hodnotenie trejdu Darrena Raddysha: Maple Leafs získali svojho nového obrancu číslo 1."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
