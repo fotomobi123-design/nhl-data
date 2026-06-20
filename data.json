@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-20T17:52:57.806832",
+  "last_updated": "2026-06-20T19:16:13.425089",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "TOR",
+      "team2": "Neznámy tím",
+      "player_team1_received": "Darren Raddysh",
+      "player_team2_received": "Neznámy hráč/aktíva",
+      "description_sk": "Hodnotenie výmeny Darrena Raddysha: Získali Maple Leafs svojho nového obrancu číslo 1? Toronto verí, že Raddyshova neskorá prelomová sezóna nebola náhoda."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
