@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-20T02:48:19.431478",
+  "last_updated": "2026-06-20T06:57:43.937541",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "TOR",
+      "team2": "Nezname",
+      "player_team1_received": "Darren Raddysh",
+      "player_team2_received": "Nezname",
+      "description_sk": "Toronto Maple Leafs získali obrancu Darrena Raddysha. Toronto verí, že Raddyshova neskorá prelomová sezóna nebola náhoda."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
