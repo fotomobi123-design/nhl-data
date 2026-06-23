@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-06-23T04:38:52.472877",
+  "last_updated": "2026-06-23T08:26:06.509044",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "TOR",
+      "team2": "Neznámy (neuvedené v texte)",
+      "player_team1_received": "Darren Raddysh",
+      "player_team2_received": "Neznámy (neuvedené v texte)",
+      "description_sk": "Hodnotenie výmeny Darrena Raddysha: Maple Leafs získali svojho nového obrancu číslo 1. Toronto verí, že Raddyshova neskorá prelomová sezóna nebola náhodná."
+    },
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Neznámy (neuvedené v texte)",
+      "description_sk": "Brady Tkachuk bol vymenený. Panthers úspešne získali veľkú posilu, zatiaľ čo Senators musia začať odznova po ukončení prestavby. Brady a Matthew Tkachukovci boli opäť spojení na Floride."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
