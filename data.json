@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-25T18:30:44.169258",
+  "last_updated": "2026-06-25T20:33:09.026467",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Florida Panthers získali Bradyho Tkachuka od Ottawa Senators. Brady Tkachuk sa znova stretol s bratom Matthewom na Floride, pričom Senators musia po ukončení prestavby resetovať."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
