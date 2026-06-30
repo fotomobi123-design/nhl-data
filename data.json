@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-06-30T07:48:04.512039",
+  "last_updated": "2026-06-30T10:52:12.666332",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "Neznámy tím",
+      "team2": "TOR",
+      "player_team1_received": "Neznámy protihráč/výbery draftu",
+      "player_team2_received": "Darren Raddysh",
+      "description_sk": "Darren Raddysh bol získaný Toronto Maple Leafs. Toronto verí, že jeho neskorá prelomová sezóna nebola náhodná."
+    },
+    {
+      "date": "2026-06-21",
+      "team1": "OTT",
+      "team2": "FLA",
+      "player_team1_received": "Neznámy protihráč/výbery draftu",
+      "player_team2_received": "Brady Tkachuk",
+      "description_sk": "Brady Tkachuk bol vymenený do Florida Panthers, kde sa opäť stretol so svojím bratom Matthewom Tkachukom. Ottawa Senators musia reštartovať po konci prestavby."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
