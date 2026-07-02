@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-02T22:43:25.510983",
+  "last_updated": "2026-07-02T23:46:45.036301",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "TOR",
+      "team2": "Neznáme",
+      "player_team1_received": "Darren Raddysh",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Toronto vsadilo na to, že neskorá prelomová sezóna Raddysha nebola náhoda."
+    },
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Brady a Matthew Tkachuk boli zjednotení na Floride."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
