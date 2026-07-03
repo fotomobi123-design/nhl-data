@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-03T21:52:35.196637",
+  "last_updated": "2026-07-03T22:56:41.034603",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "N/A",
+      "team2": "TOR",
+      "player_team1_received": "N/A",
+      "player_team2_received": "Darren Raddysh",
+      "description_sk": "Toronto Maple Leafs získali obrancu Darrena Raddysha. Tím, s ktorým bola výmena uskutočnená, a detaily protihodnoty nie sú uvedené v správe."
+    },
+    {
+      "date": "2026-06-21",
+      "team1": "OTT",
+      "team2": "FLA",
+      "player_team1_received": "N/A",
+      "player_team2_received": "Brady Tkachuk",
+      "description_sk": "Florida Panthers získali Bradyho Tkachuka od Ottawa Senators. Podrobnosti o protihodnote nie sú uvedené v správe."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
