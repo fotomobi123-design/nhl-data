@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-04T12:15:50.173867",
+  "last_updated": "2026-07-04T14:02:53.702607",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Nezadané",
+      "description_sk": "Florida Panthers získali Bradyho Tkachuka; on a Matthew Tkachuk sa znovu stretli na Floride."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
