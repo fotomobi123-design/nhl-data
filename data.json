@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-04T15:18:28.224653",
+  "last_updated": "2026-07-04T16:29:31.382046",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": null,
+      "team2": "TOR",
+      "player_team1_received": null,
+      "player_team2_received": "Darren Raddysh",
+      "description_sk": "Toronto vsádza na to, že Raddyshova neskorá prelomová sezóna nebola náhoda."
+    },
+    {
+      "date": "2026-06-21",
+      "team1": "OTT",
+      "team2": "FLA",
+      "player_team1_received": null,
+      "player_team2_received": "Brady Tkachuk",
+      "description_sk": "Panthers úspešne zrealizovali veľký obchod, zatiaľ čo Senators musia po ukončení prestavby začať odznova. Brady a Matthew Tkachukovci boli opäť zjednotení na Floride."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
