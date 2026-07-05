@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-05T22:16:36.719329",
+  "last_updated": "2026-07-05T23:31:32.390918",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "TOR",
+      "team2": "N/A",
+      "player_team1_received": "Darren Raddysh",
+      "player_team2_received": "N/A",
+      "description_sk": "Hodnotenie výmeny Darrena Raddysha: Získali Toronto Maple Leafs svojho nového obrancu číslo 1? Toronto verí, že Raddyshova neskorá prelomová sezóna nebola náhodná."
+    },
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "N/A",
+      "description_sk": "Hodnotenie výmeny Bradyho Tkachuka: Florida Panthers urobili veľký krok, Ottawa Senators musia reštartovať po ukončení prestavby. Brady a Matthew Tkachukovci boli zjednotení na Floride."
+    },
+    {
+      "date": "2026-07-03",
+      "team1": "PHI",
+      "team2": "ANA",
+      "player_team1_received": "Leo Carlsson",
+      "player_team2_received": "N/A",
+      "description_sk": "Philadelphia Flyers podpísali s centrom Anaheim Ducks Leo Carlssonom rekordnú 5-ročnú ponuku na 90 miliónov dolárov."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
