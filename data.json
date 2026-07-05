@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-05T01:26:54.399704",
+  "last_updated": "2026-07-05T05:41:23.342838",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Nespecifikované",
+      "description_sk": "Brady a Matthew Tkachuk boli znovuzjednotení na Floride."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
