@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-06T05:42:13.736914",
+  "last_updated": "2026-07-06T09:44:42.331404",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "TOR",
+      "team2": "TBL",
+      "player_team1_received": "Darren Raddysh",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Maple Leafs získali obrancu Darrena Raddysha (z Lightning)."
+    },
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Panthers získali Bradyho Tkachuka od Senators. Brady a Matthew Tkachukovci sa opäť stretli na Floride."
+    },
+    {
+      "date": "2026-07-03",
+      "team1": "PHI",
+      "team2": "ANA",
+      "player_team1_received": "Leo Carlsson",
+      "player_team2_received": "Neznáme (kompenzácia draftovými výbermi, ak nebudú Ducks ponuku dorovnať)",
+      "description_sk": "Flyers podpísali s centrom Ducks Leom Carlssonom rekordnú zmluvnú ponuku (offer sheet) na 5 rokov za 90 miliónov dolárov."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
