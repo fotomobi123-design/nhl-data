@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-07T05:07:44.622838",
+  "last_updated": "2026-07-07T08:39:49.517906",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": null,
+      "description_sk": "Hodnotenie výmeny Bradyho Tkachuka: Florida Panthers získali Bradyho Tkachuka od Ottawa Senators. Senators musia reštartovať po ukončení prestavby."
+    },
+    {
+      "date": "2026-07-03",
+      "team1": "PHI",
+      "team2": "ANA",
+      "player_team1_received": "Leo Carlsson",
+      "player_team2_received": null,
+      "description_sk": "Philadelphia Flyers podpísali s centrom Anaheim Ducks Leom Carlssonom rekordnú 5-ročnú ponuku na 90 miliónov dolárov."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
