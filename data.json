@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-08T21:31:06.016028",
+  "last_updated": "2026-07-08T22:37:15.129216",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "",
+      "description_sk": "Brady Tkachuk bol vymenený do Panthers, kde sa opäť spojil so svojím bratom Matthewom."
+    },
     {
       "date": "2026-06-19",
       "team1": "Nezverejnené",
@@ -4211,6 +4219,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-07-08",
+      "player": "Connor Bedard",
+      "team": "CHI",
+      "injury_type_sk": "Zranenie ramena, bude chýbať 4 mesiace."
+    },
     {
       "date": "2026-07-08",
       "player": "Connor Bedard",
