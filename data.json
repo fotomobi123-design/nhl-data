@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-09T16:45:52.917900",
+  "last_updated": "2026-07-09T18:31:46.135767",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Hodnotenie výmeny Bradyho Tkachuka: Panthers uskutočnili veľký ťah, Senators musia začať odznova po ukončení prestavby."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
@@ -4275,6 +4283,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-07-08",
+      "player": "Connor Bedard",
+      "team": "CHI",
+      "injury_type_sk": "Zranenie ramena, vynechá 4 mesiace"
+    },
     {
       "date": "2026-07-08",
       "player": "Connor Bedard",
