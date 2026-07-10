@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-10T19:24:07.598527",
+  "last_updated": "2026-07-10T20:48:47.256461",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "TOR",
+      "team2": "Neznámy tím",
+      "player_team1_received": "Darren Raddysh",
+      "player_team2_received": "Neznáme aktíva",
+      "description_sk": "Hodnotenie výmeny Darrena Raddysha: Získali Maple Leafs svojho nového obrancu č. 1? Toronto verí, že Raddyshova neskorá prelomová sezóna nebola náhoda."
+    },
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Neznáme aktíva",
+      "description_sk": "Hodnotenie výmeny Bradyho Tkachuka: Panthers dosiahli veľký úspech, Senators musia začať odznova po ukončení prestavby. Brady a Matthew Tkachuk sú znova spolu na Floride."
+    },
     {
       "date": "2026-06-19",
       "team1": "UNKNOWN",
@@ -4387,6 +4403,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-07-08",
+      "player": "Connor Bedard",
+      "team": "CHI",
+      "injury_type_sk": "Zranenie ramena, mimo hry 4 mesiace."
+    },
     {
       "date": "2026-07-08",
       "player": "Connor Bedard",
