@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-10T11:31:05.830418",
+  "last_updated": "2026-07-10T13:30:15.276295",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "Neznámy Tím",
+      "team2": "TOR",
+      "player_team1_received": "Neznáma kompenzácia",
+      "player_team2_received": "Darren Raddysh",
+      "description_sk": "Maple Leafs získali obrancu Darrena Raddysha. Pôvodný tím hráča ani presná kompenzácia pre tento tím nie sú v správe špecifikované."
+    },
+    {
+      "date": "2026-06-21",
+      "team1": "OTT",
+      "team2": "FLA",
+      "player_team1_received": "Neznáma kompenzácia",
+      "player_team2_received": "Brady Tkachuk",
+      "description_sk": "Florida Panthers získali Bradyho Tkachuka. Senators musia prebudovať tím, čo naznačuje, že v rámci výmeny od Panthers obdržali kompenzáciu, ktorej detaily nie sú uvedené."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
