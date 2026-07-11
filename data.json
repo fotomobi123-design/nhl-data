@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-11T15:38:33.832488",
+  "last_updated": "2026-07-11T16:34:06.905889",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Nezistené",
+      "description_sk": "Panthers získali Bradyho Tkachuka; Senators musia reštartovať po ukončení prestavby."
+    },
     {
       "date": "2026-06-21",
       "team1": "OTT",
@@ -4531,6 +4539,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-07-08",
+      "player": "Connor Bedard",
+      "team": "CHI",
+      "injury_type_sk": "Zranenie ramena, mimo hru 4 mesiace."
+    },
     {
       "date": "2026-07-08",
       "player": "Connor Bedard",
