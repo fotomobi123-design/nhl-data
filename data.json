@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-15T13:19:47.267377",
+  "last_updated": "2026-07-15T15:04:41.403194",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "OTT",
+      "team2": "FLA",
+      "player_team1_received": "N/A",
+      "player_team2_received": "Brady Tkachuk",
+      "description_sk": "Známky za výmenu Bradyho Tkachuka: Panthers trafil jackpot, Senators musia po ukončení prestavby začať odznova. Brady a Matthew Tkachuk boli zjednotení na Floride."
+    },
     {
       "date": "2026-06-21",
       "team1": "OTT",
