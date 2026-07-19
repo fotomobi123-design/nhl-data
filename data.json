@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-19T12:33:02.802988",
+  "last_updated": "2026-07-19T14:08:08.244440",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Nespecifikované aktíva",
+      "description_sk": "Panthers urobili veľký krok, Senators musia po ukončení prestavby začať odznova."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
