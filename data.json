@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-07-30T19:19:10.289570",
+  "last_updated": "2026-07-30T20:38:42.189655",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "TOR",
+      "team2": "Neznáme",
+      "player_team1_received": "Darren Raddysh",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Darren Raddysh vymenený do Maple Leafs."
+    },
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Brady Tkachuk vymenený do Panthers."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
