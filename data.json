@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-29T23:12:12.092729",
+  "last_updated": "2026-07-30T00:12:20.647997",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "TOR",
+      "team2": "TBL",
+      "player_team1_received": "Darren Raddysh",
+      "player_team2_received": null,
+      "description_sk": "Maple Leafs získali Darrena Raddysha od Lightning."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
