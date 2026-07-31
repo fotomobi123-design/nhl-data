@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-31T18:43:07.693914",
+  "last_updated": "2026-07-31T20:10:14.286842",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": null,
+      "description_sk": "Hodnotenie trejdu Bradyho Tkachuka: Panthers úspešne získali veľkú posilu, Senators musia reštartovať po ukončení prestavby. Brady a Matthew Tkachuk sa opäť stretli na Floride."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
