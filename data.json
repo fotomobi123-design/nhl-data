@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-31T13:04:33.721495",
+  "last_updated": "2026-07-31T15:27:33.842961",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "",
+      "description_sk": "Hodnotenie výmeny Bradyho Tkachuka: Panthers úspešne získali veľké meno, Senators musia po ukončení prestavby reštartovať."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
