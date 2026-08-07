@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-07T03:45:24.447324",
+  "last_updated": "2026-08-07T05:32:07.331567",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "TOR",
+      "team2": "Nič nešpecifikované",
+      "player_team1_received": "Darren Raddysh",
+      "player_team2_received": "Nič nešpecifikované",
+      "description_sk": "Toronto verí, že neskorá prelomová sezóna Raddysha nebola náhodná."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
