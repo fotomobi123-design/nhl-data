@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-08T22:23:37.747903",
+  "last_updated": "2026-08-08T22:55:58.386018",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "TOR",
+      "team2": "Neznámy tím",
+      "player_team1_received": "Darren Raddysh",
+      "player_team2_received": "Neznáme aktíva",
+      "description_sk": "Maple Leafs získali Darrena Raddysha, ktorý by mohol byť ich novým obrancom číslo 1."
+    },
     {
       "date": "2026-06-21",
       "team1": "OTT",
