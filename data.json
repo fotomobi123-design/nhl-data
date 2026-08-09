@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-09T22:26:40.962223",
+  "last_updated": "2026-08-09T22:59:15.046463",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "bližšie nešpecifikované protiplnenie",
+      "description_sk": "Panthers získali Bradyho Tkachuka; opäť sa stretol so svojím bratom Matthewom na Floride."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
@@ -8043,6 +8051,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-07-08",
+      "player": "Connor Bedard",
+      "team": "CHI",
+      "injury_type_sk": "zranenie ramena, predpokladaný návrat o 4 mesiace"
+    },
     {
       "date": "2026-07-08",
       "player": "Connor Bedard",
