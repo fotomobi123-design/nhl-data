@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-09T21:25:04.662055",
+  "last_updated": "2026-08-09T21:56:36.995077",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Panteri získali Bradyho Tkachuka od Senators. Brady a Matthew Tkachukovci sa znovu stretli na Floride."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
