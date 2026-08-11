@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-11T22:35:12.166932",
+  "last_updated": "2026-08-11T23:33:32.643174",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "TOR",
+      "team2": "Neznáme",
+      "player_team1_received": "Darren Raddysh",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Darren Raddysh bol vymenený do tímu Toronto Maple Leafs."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
