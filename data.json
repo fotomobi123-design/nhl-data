@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-13T15:29:32.892675",
+  "last_updated": "2026-08-13T16:26:29.410976",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Brady a Matthew Tkachuk sa opäť zišli na Floride."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
@@ -8555,6 +8563,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-07-08",
+      "player": "Connor Bedard",
+      "team": "CHI",
+      "injury_type_sk": "Zranenie ramena, odhadovaný návrat o 4 mesiace"
+    },
     {
       "date": "2026-07-08",
       "player": "Connor Bedard",
