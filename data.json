@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-14T10:53:01.128835",
+  "last_updated": "2026-08-14T11:39:31.121741",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "TOR",
+      "team2": "",
+      "player_team1_received": "Darren Raddysh",
+      "player_team2_received": "",
+      "description_sk": "Toronto Maple Leafs získali obrancu Darrena Raddysha. Hodnotenie obchodu."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
@@ -8651,6 +8659,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-07-08",
+      "player": "Connor Bedard",
+      "team": "CHI",
+      "injury_type_sk": "Zranenie ramena, mimo na 4 mesiace."
+    },
     {
       "date": "2026-07-08",
       "player": "Connor Bedard",
