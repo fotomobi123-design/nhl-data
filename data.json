@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-14T16:13:19.751553",
+  "last_updated": "2026-08-14T17:27:40.721427",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "TOR",
+      "team2": "Neznámy tím",
+      "player_team1_received": "Darren Raddysh",
+      "player_team2_received": "Neznáme protiplnenie",
+      "description_sk": "Darren Raddysh bol vymenený do tímu Maple Leafs. Toronto vsádza na to, že jeho neskorá prelomová sezóna nebola náhodná."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
