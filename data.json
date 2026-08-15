@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-15T13:07:02.566699",
+  "last_updated": "2026-08-15T13:50:02.292387",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Nezadané",
+      "description_sk": "Analýza trejdu Bradyho Tkachuka: Panthers uskutočnili veľkú výmenu, zatiaľ čo Senators musia začať nanovo po ukončení prestavby. Brady a Matthew Tkachukovci sa opäť stretli na Floride."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
@@ -8923,6 +8931,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-07-08",
+      "player": "Connor Bedard",
+      "team": "CHI",
+      "injury_type_sk": "Poranenie ramena, očakávaný návrat o 4 mesiace."
+    },
     {
       "date": "2026-07-08",
       "player": "Connor Bedard",
