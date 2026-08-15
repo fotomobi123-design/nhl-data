@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-08-15T08:53:12.692370",
+  "last_updated": "2026-08-15T09:20:06.002721",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "TOR",
+      "team2": "",
+      "player_team1_received": "Darren Raddysh",
+      "player_team2_received": "",
+      "description_sk": "Prestup Darrena Raddysha: Maple Leafs získali Darrena Raddysha."
+    },
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "",
+      "description_sk": "Prestup Bradyho Tkachuka: Panthers získali Bradyho Tkachuka od Senators. Bratia Tkachukovci sú opäť zjednotení na Floride."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
