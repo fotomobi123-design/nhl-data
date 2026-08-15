@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-15T06:26:10.218760",
+  "last_updated": "2026-08-15T07:06:21.205465",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "OTT",
+      "team2": "FLA",
+      "player_team1_received": "Nič",
+      "player_team2_received": "Brady Tkachuk",
+      "description_sk": "Panthers uzavreli veľký obchod, Senators musia reštartovať po ukončení prestavby. Brady a Matthew Tkachuk sa opäť stretli na Floride."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
