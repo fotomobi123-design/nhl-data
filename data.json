@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-08-16T18:19:01.533064",
+  "last_updated": "2026-08-16T18:54:06.737535",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "TOR",
+      "team2": "Neznáme",
+      "player_team1_received": "Darren Raddysh",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Tím Toronto Maple Leafs získal obrancu Darrena Raddysha. Tím, ktorý Raddysha vymenil, a protihodnota, ktorú Maple Leafs poslali, nie sú v texte uvedené."
+    },
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Brady Tkachuk bol vymenený do tímu Florida Panthers zo Senators. Podrobnosti o tom, čo získali Senators, neboli uvedené v texte."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
