@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-19T02:15:05.185151",
+  "last_updated": "2026-08-19T03:25:06.331781",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Nešpecifikované protihodnoty",
+      "description_sk": "Florida Panthers získali Bradyho Tkachuka od Ottawa Senators. Ich opätovné zjednotenie v tíme Florida Panthers."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
@@ -9747,6 +9755,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-07-08",
+      "player": "Connor Bedard",
+      "team": "CHI",
+      "injury_type_sk": "Poranenie ramena, očakávaná absencia 4 mesiace."
+    },
     {
       "date": "2026-07-08",
       "player": "Connor Bedard",
