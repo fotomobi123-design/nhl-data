@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-20T12:35:18.486224",
+  "last_updated": "2026-08-20T13:40:47.372980",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Neznámy hráč",
+      "description_sk": "Hodnotenie výmeny Bradyho Tkachuka: Panthers uskutočnili veľký ťah, Senators musia reštartovať po ukončení prestavby. Brady Tkachuk je nadšený, že sa opäť stretol s bratom Matthewom v tíme Panthers."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
