@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-21T09:30:09.150839",
+  "last_updated": "2026-08-21T10:02:23.224898",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Nešpecifikované aktíva",
+      "description_sk": "Brady Tkachuk bol vymenený z Ottawy Senators do tímu Florida Panthers, kde sa opäť stretol so svojím bratom Matthewom. Senators museli reštartovať po ukončení prestavby."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
