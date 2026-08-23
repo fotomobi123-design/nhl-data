@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-23T19:43:27.217197",
+  "last_updated": "2026-08-23T20:15:23.195843",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "OTT",
+      "team2": "FLA",
+      "player_team1_received": "Neurčené vyrovnanie",
+      "player_team2_received": "Brady Tkachuk",
+      "description_sk": "Ottawa Senators vymenili Bradyho Tkachuka do tímu Florida Panthers. Brady a Matthew Tkachukovci sa opäť stretli na Floride."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
