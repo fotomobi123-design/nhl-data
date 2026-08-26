@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-26T07:44:45.909805",
+  "last_updated": "2026-08-26T08:35:56.322662",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "OTT",
+      "team2": "FLA",
+      "player_team1_received": null,
+      "player_team2_received": "Brady Tkachuk",
+      "description_sk": "Senators vymenili Bradyho Tkachuka do Panthers."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
@@ -11323,6 +11331,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-07-08",
+      "player": "Connor Bedard",
+      "team": "CHI",
+      "injury_type_sk": "Zranenie ramena, mimo hru na 4 mesiace"
+    },
     {
       "date": "2026-07-08",
       "player": "Connor Bedard",
