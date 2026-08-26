@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T10:28:58.731408",
+  "last_updated": "2026-08-26T11:02:41.709549",
   "trades": [
     {
       "date": "2026-06-21",
@@ -11347,6 +11347,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-07-08",
+      "player": "Connor Bedard",
+      "team": "CHI",
+      "injury_type_sk": "Poranenie ramena, predpokladaný návrat za 4 mesiace"
+    },
     {
       "date": "2026-07-08",
       "player": "Connor Bedard",
