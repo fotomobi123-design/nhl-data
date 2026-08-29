@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-29T11:44:03.750834",
+  "last_updated": "2026-08-29T16:03:47.195843",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Neznáme aktíva",
+      "description_sk": "Panthers urobili veľký krok, zatiaľ čo Senators musia začať odznova po ukončení prestavby. Brady a Matthew Tkachukovci sú opäť spolu na Floride."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
