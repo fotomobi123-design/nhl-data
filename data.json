@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-31T09:23:50.404792",
+  "last_updated": "2026-08-31T17:10:39.235372",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Neznáma protihodnota",
+      "description_sk": "Florida Panthers získali Bradyho Tkachuka, čím sa znovuzjednotil so svojím bratom Matthewom. Senátori musia resetovať po ukončení prestavby."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
