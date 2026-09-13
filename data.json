@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-09-13T17:50:48.369996",
+  "last_updated": "2026-09-13T20:08:25.091277",
   "trades": [
+    {
+      "date": "2026-06-19",
+      "team1": "TOR",
+      "team2": "Neznámy tím",
+      "player_team1_received": "Darren Raddysh",
+      "player_team2_received": "Neznáma protihodnota",
+      "description_sk": "Hodnotenie trejdu Darrena Raddysha: Získali Maple Leafs svojho nového obrancu číslo 1? Toronto verí, že Raddyshov neskorý prelom v sezóne nebol náhodný."
+    },
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Neznáma protihodnota",
+      "description_sk": "Hodnotenie trejdu Bradyho Tkachuka: Panthers úspešne získali veľké meno, Senators musia reštartovať po ukončení prestavby. Brady a Matthew Tkachuk boli opäť spojení na Floride."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
