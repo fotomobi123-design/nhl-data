@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-13T14:46:58.931756",
+  "last_updated": "2026-09-13T17:50:48.369996",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": null,
+      "description_sk": "Panteri získali Bradyho Tkachuka. Senátori musia reštartovať po konci prestavby."
+    },
     {
       "date": "2026-06-21",
       "team1": "OTT",
