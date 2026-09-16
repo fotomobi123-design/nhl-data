@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-16T12:44:40.461321",
+  "last_updated": "2026-09-16T17:28:47.276416",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "",
+      "description_sk": "Brady Tkachuk bol vymenený z Ottawy do Floridy, kde sa znovu stretol so svojím bratom Matthewom."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
