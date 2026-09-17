@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-17T07:01:51.498977",
+  "last_updated": "2026-09-17T12:45:11.657501",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "",
+      "description_sk": "Brady a Matthew Tkachukovci boli opäť spojení na Floride."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
