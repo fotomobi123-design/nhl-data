@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-09-25T03:15:30.426194",
+  "last_updated": "2026-09-25T08:59:40.397514",
   "trades": [
+    {
+      "date": "2026-07-09",
+      "team1": "ANA",
+      "team2": "PHI",
+      "player_team1_received": "Leo Carlsson",
+      "player_team2_received": "",
+      "description_sk": "Anaheim Ducks vyrovnali ponuku Philadelphia Flyers na Lea Carlssona, čím si ho udržali vo svojom tíme."
+    },
+    {
+      "date": "2026-07-03",
+      "team1": "PHI",
+      "team2": "ANA",
+      "player_team1_received": "Leo Carlsson",
+      "player_team2_received": "",
+      "description_sk": "Philadelphia Flyers podpísali útočníka Lea Carlssona (z Anaheim Ducks) na rekordnú ponuku (offer sheet)."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
