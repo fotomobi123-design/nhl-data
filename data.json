@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-01T00:03:24.050960",
+  "last_updated": "2026-10-01T06:21:50.220711",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "",
+      "description_sk": "Panteri uskutočnili veľký obchod, Senátori musia reštartovať po konci prestavby. Brady a Matthew Tkachuk boli zjednotení na Floride."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
