@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-10-04T12:41:22.346670",
+  "last_updated": "2026-10-04T17:14:17.550846",
   "trades": [
+    {
+      "date": "2026-07-03",
+      "team1": "PHI",
+      "team2": "ANA",
+      "player_team1_received": "Leo Carlsson",
+      "player_team2_received": "",
+      "description_sk": "Philadelphia Flyers podpísali ponuku (offer sheet) pre centra Ducks Lea Carlssona na 5 rokov za 90 miliónov dolárov."
+    },
+    {
+      "date": "2026-07-09",
+      "team1": "ANA",
+      "team2": "PHI",
+      "player_team1_received": "Leo Carlsson",
+      "player_team2_received": "",
+      "description_sk": "Anaheim Ducks vyrovnali ponuku (offer sheet) Philadelphia Flyers vo výške 90 miliónov dolárov pre Lea Carlssona, čím si ho udržali."
+    },
+    {
+      "date": "2026-09-02",
+      "team1": "CHI",
+      "team2": "",
+      "player_team1_received": "Patrick Kane",
+      "player_team2_received": "",
+      "description_sk": "Patrick Kane sa vrátil k Blackhawks na dvojročnú zmluvu ako voľný hráč."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
