@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-10T06:09:32.988020",
+  "last_updated": "2026-10-10T12:49:42.465644",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "N/A",
+      "description_sk": "Brady Tkachuk bol vymenený zo Senators do Panthers, kde sa opäť spojí so svojím bratom Matthewom."
+    },
     {
       "date": "2026-06-19",
       "team1": "TOR",
