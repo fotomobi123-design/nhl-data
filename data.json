@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-11T18:14:35.366288",
+  "last_updated": "2026-10-11T22:13:16.881599",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "",
+      "description_sk": "Panteri získali Bradyho Tkachuka, ktorý sa opäť spojil so svojím bratom Matthewom. Senátori musia po ukončení prestavby reštartovať."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
@@ -13147,6 +13155,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-07-08",
+      "player": "Connor Bedard",
+      "team": "CHI",
+      "injury_type_sk": "Zranenie ramena; mimo hry 4 mesiace."
+    },
     {
       "date": "2026-07-08",
       "player": "Connor Bedard",
