@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-11T00:17:49.035581",
+  "last_updated": "2026-10-11T06:06:59.202946",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Neznáme",
+      "description_sk": "Brady Tkachuk bol vymenený do tímu Florida Panthers. Senátori musia začať odznova po ukončení prestavby."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
@@ -13139,6 +13147,18 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-07-08",
+      "player": "Connor Bedard",
+      "team": "CHI",
+      "injury_type_sk": "Zranenie ramena; mimo hry 4 mesiace"
+    },
+    {
+      "date": "2026-10-10",
+      "player": "Igor Shesterkin",
+      "team": "NYR",
+      "injury_type_sk": "Zranenie dolnej časti tela; mimo hry do konca sezóny"
+    },
     {
       "date": "2026-10-10",
       "player": "Igor Shesterkin",
