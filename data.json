@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-12T01:29:28.846332",
+  "last_updated": "2026-10-12T07:50:49.517957",
   "trades": [
+    {
+      "date": "2026-06-21",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Nezverejnené",
+      "description_sk": "Panthers získali Bradyho Tkachuka, čím sa opäť spojil s bratom Matthewom na Floride. Senators musia po ukončení prestavby reštartovať."
+    },
     {
       "date": "2026-06-21",
       "team1": "FLA",
@@ -13155,6 +13163,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-10-10",
+      "player": "Igor Shesterkin",
+      "team": "NYR",
+      "injury_type_sk": "Zranenie dolnej časti tela; mimo hry na celú sezónu"
+    },
     {
       "date": "2026-07-08",
       "player": "Connor Bedard",
