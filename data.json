@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-16T21:28:09.776809",
+  "last_updated": "2026-10-16T23:46:14.629186",
   "trades": [
+    {
+      "date": "2026-06-23",
+      "team1": "FLA",
+      "team2": "OTT",
+      "player_team1_received": "Brady Tkachuk",
+      "player_team2_received": "Nespecifikované v texte",
+      "description_sk": "Brady Tkachuk vyjadril nadšenie zo znovuzjednotenia s bratom Matthewom v tíme Florida Panthers. (Implikuje prestup Bradyho Tkachuka z Ottawy do Floridy)."
+    },
     {
       "date": "2026-06-23",
       "team1": "FLA",
