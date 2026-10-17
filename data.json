@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T17:42:25.500152",
+  "last_updated": "2026-10-17T19:57:46.742201",
   "trades": [
     {
       "date": "2026-06-23",
@@ -13203,6 +13203,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-10-10",
+      "player": "Igor Shesterkin",
+      "team": "NYR",
+      "injury_type_sk": "Zranenie dolnej časti tela, vynechá celú sezónu"
+    },
     {
       "date": "2026-10-10",
       "player": "Igor Shesterkin",
