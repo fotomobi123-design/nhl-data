@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-10-17T23:51:16.503376",
+  "last_updated": "2026-10-18T02:36:40.438743",
   "trades": [
+    {
+      "date": "2026-06-23",
+      "team1": "OTT",
+      "team2": "FLA",
+      "player_team1_received": "N/A",
+      "player_team2_received": "Brady Tkachuk",
+      "description_sk": "Brady Tkachuk bol vymenený do tímu Florida Panthers, aby sa stretol so svojím bratom Matthewom."
+    },
+    {
+      "date": "2026-08-27",
+      "team1": "WPG",
+      "team2": "N/A",
+      "player_team1_received": "N/A",
+      "player_team2_received": "Connor Hellebuyck",
+      "description_sk": "Brankár Connor Hellebuyck požiadal Winnipeg Jets o výmenu."
+    },
     {
       "date": "2026-06-23",
       "team1": "FLA",
@@ -13203,6 +13219,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-10-10",
+      "player": "Igor Shesterkin",
+      "team": "NYR",
+      "injury_type_sk": "Zranenie dolnej časti tela, vyradený na sezónu."
+    },
     {
       "date": "2026-10-10",
       "player": "Igor Shesterkin",
