@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-10-19T06:39:10.327616",
+  "last_updated": "2026-10-19T14:15:04.122420",
   "trades": [
+    {
+      "date": "2026-07-09",
+      "team1": "ANA",
+      "team2": "PHI",
+      "player_team1_received": "Leo Carlsson",
+      "player_team2_received": "",
+      "description_sk": "Anaheim Ducks dorovnali ponukový list Lea Carlssona na 90 miliónov dolárov od tímu Philadelphia Flyers. Carlsson zostáva v Anaheime."
+    },
+    {
+      "date": "2026-07-03",
+      "team1": "PHI",
+      "team2": "ANA",
+      "player_team1_received": "Leo Carlsson",
+      "player_team2_received": "",
+      "description_sk": "Philadelphia Flyers podpísali ponukový list s centrom Ducks Leom Carlssonom na 5 rokov za 90 miliónov dolárov."
+    },
     {
       "date": "2026-06-23",
       "team1": "FLA",
