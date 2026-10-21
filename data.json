@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T05:06:08.330862",
+  "last_updated": "2026-10-21T10:24:30.988994",
   "trades": [
     {
       "date": "2026-07-09",
@@ -13243,6 +13243,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-10-10",
+      "player": "Igor Shesterkin",
+      "team": "NYR",
+      "injury_type_sk": "Zranenie dolnej časti tela, vyradený na sezónu"
+    },
     {
       "date": "2026-07-08",
       "player": "Connor Bedard",
