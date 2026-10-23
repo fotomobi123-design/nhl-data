@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-23T18:03:23.965836",
+  "last_updated": "2026-10-23T21:34:15.783134",
   "trades": [
+    {
+      "date": "2026-10-23",
+      "team1": "WPG",
+      "team2": "NJD",
+      "player_team1_received": "štyria hráči, dva draftové výbery",
+      "player_team2_received": "Connor Hellebuyck",
+      "description_sk": "Hellebuyck sa konečne dočkal splnenia svojho želania byť vymenený z Winnipegu po tom, čo požiadal o trejd v mimosezónnom období."
+    },
     {
       "date": "2026-10-23",
       "team1": "WPG",
