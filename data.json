@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-24T13:27:04.913957",
+  "last_updated": "2026-10-24T16:47:29.807414",
   "trades": [
+    {
+      "date": "2026-10-24",
+      "team1": "WPG",
+      "team2": "NJD",
+      "player_team1_received": "štyroch hráčov a dva draftové výbery",
+      "player_team2_received": "Connor Hellebuyck",
+      "description_sk": "Jets poslali hviezdneho brankára Connor Hellebuycka Devils výmenou za štyroch hráčov a dva draftové výbery."
+    },
     {
       "date": "2026-10-24",
       "team1": "WPG",
@@ -13291,6 +13299,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-10-10",
+      "player": "Igor Shesterkin",
+      "team": "NYR",
+      "injury_type_sk": "Zranenie dolnej časti tela, vyradený na celú sezónu."
+    },
     {
       "date": "2026-07-08",
       "player": "Connor Bedard",
