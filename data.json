@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-25T19:49:34.786926",
+  "last_updated": "2026-10-25T22:13:49.325150",
   "trades": [
+    {
+      "date": "2026-10-24",
+      "team1": "Jets",
+      "team2": "Devils",
+      "player_team1_received": "four players, two draft picks",
+      "player_team2_received": "Connor Hellebuyck",
+      "description_sk": "Hellebuyck sa konečne dočkal presunu z Winnipegu po tom, čo v mimosezóne požiadal o výmenu."
+    },
     {
       "date": "2026-10-24",
       "team1": "WPG",
@@ -13363,6 +13371,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-10-10",
+      "player": "Igor Shesterkin",
+      "team": "Rangers",
+      "injury_type_sk": "Zranenie dolnej časti tela, mimo hry na celú sezónu."
+    },
     {
       "date": "2026-10-10",
       "player": "Igor Shesterkin",
