@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-30T16:07:55.191922",
+  "last_updated": "2026-10-30T20:57:19.358711",
   "trades": [
+    {
+      "date": "2026-10-24",
+      "team1": "WPG",
+      "team2": "NJD",
+      "player_team1_received": null,
+      "player_team2_received": "Connor Hellebuyck",
+      "description_sk": "Výmena Connora Hellebuycka: Jets posielajú hviezdneho brankára do Devils výmenou za štyroch hráčov a dva draftové výbery."
+    },
     {
       "date": "2026-10-24",
       "team1": "WPG",
