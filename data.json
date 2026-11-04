@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-03T20:12:36.447765",
+  "last_updated": "2026-11-04T00:44:37.392796",
   "trades": [
+    {
+      "date": "2026-10-24",
+      "team1": "WPG",
+      "team2": "NJD",
+      "player_team1_received": "Štyria hráči a dva draftové výbery",
+      "player_team2_received": "Connor Hellebuyck",
+      "description_sk": "Winnipeg Jets poslali hviezdneho brankára Connora Hellebuycka do New Jersey Devils výmenou za štyroch hráčov a dva draftové výbery. Hellebuyck si tak splnil želanie opustiť Winnipeg."
+    },
     {
       "date": "2026-10-24",
       "team1": "WPG",
@@ -13515,6 +13523,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-10-10",
+      "player": "Igor Shesterkin",
+      "team": "NYR",
+      "injury_type_sk": "Zranenie dolnej časti tela, vyradený na celú sezónu"
+    },
     {
       "date": "2026-10-10",
       "player": "Igor Shesterkin",
