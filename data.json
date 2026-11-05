@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-05T08:56:21.216413",
+  "last_updated": "2026-11-05T17:03:57.787644",
   "trades": [
+    {
+      "date": "2026-10-24",
+      "team1": "WPG",
+      "team2": "NJD",
+      "player_team1_received": "Štyria hráči a dva draftové výbery",
+      "player_team2_received": "Connor Hellebuyck",
+      "description_sk": "Jets poslali hviezdneho brankára Devils výmenou za štyroch hráčov a dva draftové výbery. Hellebuyckovi sa konečne splnilo želanie odísť z Winnipegu po tom, čo v mimosezónnom období požiadal o výmenu."
+    },
     {
       "date": "2026-10-24",
       "team1": "NJD",
