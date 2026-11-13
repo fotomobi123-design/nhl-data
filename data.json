@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-13T02:19:30.543846",
+  "last_updated": "2026-11-13T09:49:36.055837",
   "trades": [
+    {
+      "date": "2026-10-24",
+      "team1": "WPG",
+      "team2": "NJD",
+      "player_team1_received": "Neznámi hráči a draftové výbery",
+      "player_team2_received": "Connor Hellebuyck",
+      "description_sk": "Winnipeg Jets vymenili hviezdneho brankára Connora Hellebuycka do New Jersey Devils výmenou za štyroch hráčov a dva draftové výbery. Hellebuyckovi sa tak konečne splnilo želanie opustiť Winnipeg po tom, čo v mimosezóne požiadal o výmenu."
+    },
     {
       "date": "2026-10-24",
       "team1": "WPG",
