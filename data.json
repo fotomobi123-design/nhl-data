@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-23T03:26:59.820562",
+  "last_updated": "2026-11-23T13:27:15.396518",
   "trades": [
+    {
+      "date": "2026-11-23",
+      "team1": "DET",
+      "team2": "MTL",
+      "player_team1_received": "N/A",
+      "player_team2_received": "Dylan Larkin",
+      "description_sk": "Montreal získal kapitána Red Wings, Dilana Larkina, výmenou za nespresnenú protihodnotu."
+    },
     {
       "date": "2026-10-24",
       "team1": "WPG",
