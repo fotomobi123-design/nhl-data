@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-24T11:19:11.494002",
+  "last_updated": "2026-11-24T21:26:16.168048",
   "trades": [
+    {
+      "date": "2026-11-23",
+      "team1": "DET",
+      "team2": "MTL",
+      "player_team1_received": null,
+      "player_team2_received": "Dylan Larkin",
+      "description_sk": "Red Wings vymenili Dylana Larkina do Montrealu. Montreal získal bývalého kapitána Red Wings Dylana Larkina, pričom Detroitu odovzdal bližšie nešpecifikované aktíva."
+    },
     {
       "date": "2026-11-23",
       "team1": "DET",
@@ -13963,6 +13971,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-11-24",
+      "player": "Connor Bedard",
+      "team": "CHI",
+      "injury_type_sk": "Zranenie ramena, mimo hry minimálne štyri mesiace"
+    },
     {
       "date": "2026-10-10",
       "player": "Igor Shesterkin",
