@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-24T01:07:33.768108",
+  "last_updated": "2026-11-24T11:19:11.494002",
   "trades": [
+    {
+      "date": "2026-11-23",
+      "team1": "DET",
+      "team2": "MTL",
+      "player_team1_received": "",
+      "player_team2_received": "Dylan Larkin",
+      "description_sk": "Canadiens získali Dylana Larkina od Red Wings. Detroit obdržal balík protihodnoty."
+    },
     {
       "date": "2026-11-23",
       "team1": "DET",
