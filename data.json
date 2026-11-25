@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-11-24T21:26:16.168048",
+  "last_updated": "2026-11-25T04:26:25.697763",
   "trades": [
+    {
+      "date": "2026-10-24",
+      "team1": "WPG",
+      "team2": "NJD",
+      "player_team1_received": "Nespresnené aktíva",
+      "player_team2_received": "Connor Hellebuyck",
+      "description_sk": "Winnipeg Jets poslali hviezdneho brankára Connor Hellebuycka do New Jersey Devils výmenou za štyroch hráčov a dva draftové výbery. Hellebuyck si konečne splnil želanie byť vymenený z Winnipegu po tom, čo v mimosezónnom období požiadal o výmenu."
+    },
+    {
+      "date": "2026-11-23",
+      "team1": "DET",
+      "team2": "MTL",
+      "player_team1_received": "Nespresnené aktíva",
+      "player_team2_received": "Dylan Larkin",
+      "description_sk": "Montreal získal od Detroitu obrovský balík aktív za bývalého kapitána Red Wings, Dylana Larkina."
+    },
     {
       "date": "2026-11-23",
       "team1": "DET",
@@ -13971,6 +13987,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-11-24",
+      "player": "Connor Bedard",
+      "team": "CHI",
+      "injury_type_sk": "Zranenie ramena, mimo hry minimálne štyri mesiace."
+    },
     {
       "date": "2026-11-24",
       "player": "Connor Bedard",
