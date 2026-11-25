@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-25T04:26:25.697763",
+  "last_updated": "2026-11-25T14:45:52.485744",
   "trades": [
+    {
+      "date": "2026-11-23",
+      "team1": "DET",
+      "team2": "MTL",
+      "player_team1_received": "Neznáme (balík protihodnôt)",
+      "player_team2_received": "Dylan Larkin",
+      "description_sk": "Montreal získal bývalého kapitána Red Wings Dylana Larkina výmenou za rozsiahly balík protihodnôt pre Detroit."
+    },
     {
       "date": "2026-10-24",
       "team1": "WPG",
