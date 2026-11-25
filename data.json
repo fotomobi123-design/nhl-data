@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-25T14:45:52.485744",
+  "last_updated": "2026-11-25T23:27:00.543962",
   "trades": [
+    {
+      "date": "2026-11-23",
+      "team1": "DET",
+      "team2": "MTL",
+      "player_team1_received": null,
+      "player_team2_received": "Dylan Larkin",
+      "description_sk": "Montreal získal od Detroitu veľký balík protihodnoty (haul) za bývalého kapitána Red Wings, Dylana Larkina."
+    },
     {
       "date": "2026-11-23",
       "team1": "DET",
@@ -13995,6 +14003,12 @@
     }
   ],
   "injuries": [
+    {
+      "date": "2026-11-24",
+      "player": "Connor Bedard",
+      "team": "CHI",
+      "injury_type_sk": "Zranenie ramena (shoulder injury), mimo hry minimálne štyri mesiace."
+    },
     {
       "date": "2026-11-24",
       "player": "Connor Bedard",
