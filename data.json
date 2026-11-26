@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-25T23:27:00.543962",
+  "last_updated": "2026-11-26T05:17:29.827804",
   "trades": [
+    {
+      "date": "2026-11-23",
+      "team1": "DET",
+      "team2": "MTL",
+      "player_team1_received": "Nešpecifikovaná protihodnota (viacero hráčov a draftových výberov)",
+      "player_team2_received": "Dylan Larkin",
+      "description_sk": "Canadiens získali Dylana Larkina od Red Wings výmenou za nešpecifikovanú protihodnotu."
+    },
     {
       "date": "2026-11-23",
       "team1": "DET",
