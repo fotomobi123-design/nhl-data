@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-11-27T00:14:28.883582",
+  "last_updated": "2026-11-27T08:54:13.318283",
   "trades": [
+    {
+      "date": "2026-10-24",
+      "team1": "WPG",
+      "team2": "NJD",
+      "player_team1_received": "N/A",
+      "player_team2_received": "Connor Hellebuyck",
+      "description_sk": "Winnipeg Jets poslali hviezdneho brankára Connora Hellebuycka do New Jersey Devils výmenou za štyroch hráčov a dva draftové výbery. Hellebuyckovi sa konečne splnilo želanie byť vymenený z Winnipegu."
+    },
+    {
+      "date": "2026-11-23",
+      "team1": "DET",
+      "team2": "MTL",
+      "player_team1_received": "N/A",
+      "player_team2_received": "Dylan Larkin",
+      "description_sk": "Montreal Canadiens získali Dylana Larkina od Detroit Red Wings výmenou za balík aktív. Red Wings zaznamenali masívne víťazstvo v tomto významnom obchode NHL."
+    },
     {
       "date": "2026-10-24",
       "team1": "WPG",
